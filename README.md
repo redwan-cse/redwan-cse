@@ -73,8 +73,8 @@ We worked together remotely and always communicated with each other while doing 
 ### Direct Contact
 
 - Email: [![Email](https://img.shields.io/badge/Email-redwanse%40outlook.com-red?logo=microsoft-outlook)](mailto:redwanse@outlook.com)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801776387624-green?logo=WhatsApp)](tel:+8801776387624)
-- Skype: [![Skype](https://img.shields.io/badge/Skype:redwanse-blue?logo=Skype)](skype:live:redwanse?call)
+- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801776387624-green?logo=WhatsApp)](https://tel:+8801776387624)
+- Skype: [![Skype](https://img.shields.io/badge/Skype:redwanse-blue?logo=Skype)](https://skype:live:redwanse?call)
 
 
 ### Networking Platform
