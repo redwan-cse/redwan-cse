@@ -13,10 +13,9 @@ My name is Md. Redwan Ahmed and I am a Cybersecurity Analyst with a passion for 
 - Mobile Device Penetration Testing
 - Database Penetration Testing
 - Active Directory Penetration Testing
+- Fuzzing
 - Metasploit Framework
 - Digital Forensics
-- Fuzzing
-- OWASP
 
 ### Programming Languages
 
