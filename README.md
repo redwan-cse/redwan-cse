@@ -67,7 +67,7 @@ My name is Md. Redwan Ahmed and I am a Cybersecurity Analyst with a passion for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwancse-blue?logo=linkedin)](https://www.linkedin.com/in/redwancse/)
 [![Twitter](https://img.shields.io/badge/Twitter-RedwanCSE-blue?logo=twitter)](https://twitter.com/RedwanCSE)
 [![Facebook](https://img.shields.io/badge/Facebook-redwan.cse-blue?logo=facebook)](https://www.facebook.com/redwan.cse)
-[![Discord](https://img.shields.io/badge/Discord-Md.%20Redwan%20Ahmed%234109-blueviolet?logo=discord)](https://discord.gg/rZ3n2aHXgX)
+[![Discord](https://img.shields.io/badge/Discord-CSenthusiastBD-blueviolet?logo=discord)](https://discord.gg/rZ3n2aHXgX)
 [![Medium](https://img.shields.io/badge/Medium-redwancse-black?logo=medium)](https://redwancse.medium.com/)
 [![Patreon](https://img.shields.io/badge/Patreon-redwancse-red?logo=patreon)](https://www.patreon.com/user?u=22291805)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Md--Redwan--Ahmed-orange?logo=stackoverflow)](https://stackoverflow.com/users/21417664/md-redwan-ahmed)
