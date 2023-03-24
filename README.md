@@ -82,7 +82,7 @@ We worked together remotely and always communicated with each other while doing 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwancse-blue?logo=linkedin)](https://www.linkedin.com/in/redwancse/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-RedwanCSE-blue?logo=twitter)](https://twitter.com/RedwanCSE)
 - Facebook: [![Facebook](https://img.shields.io/badge/Facebook-redwan.cse-blue?logo=facebook)](https://www.facebook.com/redwan.cse)
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-redwan.cse-purple--red?logo=instagram)](https://www.instagram.com/redwancse/)
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-redwan.cse-purple?logo=instagram)](https://www.instagram.com/redwancse/)
 - Discord: [![Discord](https://img.shields.io/badge/Discord-CSenthusiastBD-blueviolet?logo=discord)](https://discord.gg/rZ3n2aHXgX)
 - Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Md--Redwan--Ahmed-orange?logo=stackoverflow)](https://stackoverflow.com/users/21417664/md-redwan-ahmed)
 - Medium: [![Medium](https://img.shields.io/badge/Medium-redwancse-black?logo=medium)](https://redwancse.medium.com/)
