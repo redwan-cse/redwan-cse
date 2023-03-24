@@ -58,7 +58,6 @@ My name is Md. Redwan Ahmed and I am a Cybersecurity Analyst with a passion for 
 ## Contact Me
 
 - Email: [redwanse@outlook.com](mailto:redwanse@outlook.com)
-- Phone: [![(+880)1776387624](https://img.icons8.com/color/48/000000/phone.png)](callto:(+880)1776387624)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwanse-blue?logo=linkedin)](https://www.linkedin.com/in/redwancse/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-redwanse-blue?logo=twitter)](https://twitter.com/RedwanCSE)
 - Facebook: [![Facebook](https://img.shields.io/badge/Facebook-redwanse-blue?logo=facebook)]([https://www.facebook.com/redwanse/](https://www.facebook.com/redwan.cse/))
