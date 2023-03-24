@@ -7,24 +7,27 @@ My name is Md. Redwan Ahmed and I am a Cybersecurity Analyst with a passion for 
 ### Cybersecurity
 
 - Ethical Hacking
+- Open-Source Intelligence (OSINT)
+- Malware Removal
+- Penetration Testing
 - Mobile Device Penetration Testing
 - Database Penetration Testing
-- Metasploit Framework
 - Active Directory Penetration Testing
+- Metasploit Framework
+- Digital Forensics
 - Fuzzing
 - OWASP
-- Penetration Testing
-- Open-Source Intelligence (OSINT)
 
 ### Programming Languages
 
-- Python
-- Bash
-- PowerShell
 - C
 - C++
 - C#
 - Java
+- Python
+- Assembly
+- Bash
+- PowerShell
 
 ### Database Management
 
