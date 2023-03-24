@@ -74,7 +74,7 @@ We worked together remotely and always communicated with each other while doing 
 
 CSenthusiastBD is a powerful Discord bot that can effectively monitor discord messages, manage members, send welcome messages, generate server logs, and perform most of the moderation tasks in our server. Created by me, this bot has been specifically designed to meet the needs of the CS Enthusiast community, and it's available exclusively for our private Discord server.
 
-With CSenthusiastBD, you can easily monitor messages and activities in your server, and keep it safe from spammers, trolls, and other undesirable elements. The bot can be easily configured to send welcome messages to new members, and also to manage roles and permissions. The bot can also generate detailed server logs, which can help us keep track of the activities of your members. Moreover, CSenthusiastBD is highly customizable and can be easily integrated with your existing Discord server.
+With CSenthusiastBD, we can easily monitor messages and activities in our server, and keep it safe from spammers, trolls, and other undesirable elements. The bot can be easily configured to send welcome messages to new members, and also to manage roles and permissions. The bot can also generate detailed server logs, which can help us keep track of the activities of our members. Moreover, CSenthusiastBD is highly customizable and can be easily integrated with your existing Discord server.
 
 ## Contact Me
 
