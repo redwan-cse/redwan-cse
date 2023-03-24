@@ -46,10 +46,10 @@ My name is Md. Redwan Ahmed and I am a Cybersecurity Analyst with a passion for 
 - Social Responsibility
 - Teamwork
 
-## Experience
+## Volunteering Experience
 
 - Vice-President, Jagannath University IT Society (2017-Present)
-- Co-founder, Sherpur District Student Welfare Council (2018-Present)
+- Co-founder, Sherpur District Student Welfare Council (2018-2021)
 
 ## Projects
 
