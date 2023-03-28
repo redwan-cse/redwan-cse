@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-"Hello, I'm Md. Redwan Ahmed, a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational skills in the field of cybersecurity. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
+Hello, I'm Md. Redwan Ahmed, a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational skills in the field of cybersecurity. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
 
 In addition, I have completed several courses to further develop my skills and knowledge in cybersecurity. Some of these courses were free, while others were paid and provided me with certifications. These courses equipped me with the knowledge and tools to identify and address security vulnerabilities in computer systems and networks.
 
@@ -8,7 +8,7 @@ As a penetration tester, I simulate attacks on computer systems and networks to 
 
 Currently, I am actively seeking remote/freelance opportunities in the field of cybersecurity. I am passionate about helping organizations and individuals protect their sensitive information and assets from cyber threats and am eager to put my skills and knowledge to work in a dynamic and challenging environment.
 
-If you're looking for a dedicated, detail-oriented cybersecurity professional who is committed to staying up-to-date on the latest security trends and best practices, please don't hesitate to get in touch. Follow me to learn more about my experience and skills in the field of cybersecurity."
+If you're looking for a dedicated, detail-oriented cybersecurity professional who is committed to staying up-to-date on the latest security trends and best practices, please don't hesitate to get in touch. Follow me to learn more about my experience and skills in the field of cybersecurity.
 
 ## Skills
 
