@@ -106,13 +106,20 @@ Currently, I am actively seeking remote/freelance opportunities in the field of 
 
 ### Software Development Expertise
 
-- API Integration
 - Agile Development Methodologies
+- API Integration
+- Backend Development
 - Cross-Platform App Development
 - Database Management
-- Discord Bot Development (Discord.py)
+- Deployment and Installation
+- Error Handling
+- Error Logging and Reporting
+- File System Management
+- Frontend Development
+- Internationalization and Localization
+- Memory Management
 - Mobile App Development (iOS and Android)
-- Mobile App Performance Optimization
+- Multithreading
 - Performance Optimization
 - Security Best Practices
 - Testing and Debugging
