@@ -39,47 +39,98 @@ Currently, I am actively seeking remote/freelance opportunities in the field of 
 
 ### Cybersecurity
 
-- Ethical Hacking
-- Open-Source Intelligence (OSINT)
-- Malware Removal
-- Penetration Testing
-- Mobile Device Penetration Testing
+- Active Directory
+- Application Security
+- Computer Forensics
+- Critical Thinking
+- Data Privacy
 - Database Penetration Testing
-- Active Directory Penetration Testing
-- Fuzzing
-- Metasploit Framework
 - Digital Forensics
+- Ethical Hacking
+- Firewalls
+- Fuzzing
+- Incident Response
+- Information Gathering
+- Information Security
+- Malware
+- Malware Removal
+- Metasploit Framework
+- Network Security
+- Offensive Hacking
+- Open-Source Intelligence (OSINT)
+- Penetration Testing
+- Reconnaissance
+- Reverse Engineering
+- Risk Management
+- Software Testing
+- Vulnerability
+- Vulnerability Assessment
+- Vulnerability Management
+- Web Application Security
 
 ### Programming Languages
 
-- C
-- C++
-- C#
-- Java
-- Python
 - Assembly
 - Bash
-- PowerShell
-
-### Database Management
-
+- C/C++
+- C#
+- CSS
+- HTML
+- Java
+- JavaScript
 - MySQL
+- Php
+- PowerShell
+- Python
 
-### Operating Systems
+###  Operating System Proficiency
 
-- Windows
-- Linux
+- Backup and Recovery
+- Command Line Interface (CLI) Proficiency
+- Disk Management
+- File System Management
+- Installation and Configuration
+- Memory Management
+- Multitasking and Multithreading
+- Network Configuration
+- Performance Monitoring and Tuning
+- Process Management
+- Remote Administration
+- Security Management
+- Shell Scripting
+- System Administration
+- System Updates and Patches
+- Troubleshooting and Problem-Solving
+- User Account Management
+- Virtualization
 
-### Leadership and Management
+### Software Development Expertise
 
+- API Integration
+- Agile Development Methodologies
+- Cross-Platform App Development
+- Database Management
+- Discord Bot Development (Discord.py)
+- Mobile App Development (iOS and Android)
+- Mobile App Performance Optimization
+- Performance Optimization
+- Security Best Practices
+- Testing and Debugging
+- User Interface (UI) Design
+- Version Control (e.g., Git)
+- Web Development (Front-end and Back-end)
+
+### Professional Competencies
+
+- Analytical Skills
+- Communication
+- Leadership
+- Organization Skills
 - Organizational Leadership
-- Project Management
-
-### Soft Skills
-
-- Critical Thinking
+- Problem Solving
 - Social Responsibility
-- Teamwork
+- Source Intelligence
+- Team Collaboration
 
 ## Volunteering Experience
 
