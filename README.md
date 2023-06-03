@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Overview
 
 𝐌𝐝. 𝐑𝐞𝐝𝐰𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 is a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational cybersecurity skills. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
 
