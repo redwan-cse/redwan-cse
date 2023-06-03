@@ -1,14 +1,39 @@
 # Hi there! 👋
 
-Hello, I'm Md. Redwan Ahmed, a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational skills in the field of cybersecurity. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
+𝐌𝐝. 𝐑𝐞𝐝𝐰𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 is a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational cybersecurity skills. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
 
-In addition, I have completed several courses to further develop my skills and knowledge in cybersecurity. Some of these courses were free, while others were paid and provided me with certifications. These courses equipped me with the knowledge and tools to identify and address security vulnerabilities in computer systems and networks.
 
-As a penetration tester, I simulate attacks on computer systems and networks to identify weaknesses that could be exploited by attackers. I am also experienced in conducting OSINT investigations, which involve gathering and analyzing information from publicly available sources to uncover potential security threats.
+𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐎𝐟𝐟𝐞𝐫𝐢𝐧𝐠𝐬:
 
-Currently, I am actively seeking remote/freelance opportunities in the field of cybersecurity. I am passionate about helping organizations and individuals protect their sensitive information and assets from cyber threats and am eager to put my skills and knowledge to work in a dynamic and challenging environment.
+⭐ 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 (𝐕𝐀𝐏𝐓)
+   - Comprehensive assessment of system security.
+   - Simulating real attacks to identify vulnerabilities.
+   - Providing detailed reports with actionable recommendations.
+   - Testing the effectiveness of existing security measures.
 
-If you're looking for a dedicated, detail-oriented cybersecurity professional who is committed to staying up-to-date on the latest security trends and best practices, please don't hesitate to get in touch. Follow me to learn more about my experience and skills in the field of cybersecurity.
+⭐ 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐎𝐒𝐈𝐍𝐓)
+   - Conducting in-depth research and analysis using publicly available sources.
+   - Gathering intelligence to uncover potential security threats and risks.
+   - Identifying and monitoring digital footprints and online activities.
+   - Providing actionable insights for informed decision-making.
+
+⭐ 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐑𝐞𝐦𝐨𝐯𝐚𝐥 𝐚𝐧𝐝 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
+   - Identifying and removing malware from various CMS platforms and custom websites.
+   - Implementing proactive security measures to prevent future infections.
+   - Conducting security audits to detect vulnerabilities and recommend improvements.
+   - Assisting with Google blacklist removal and Japanese spam indexing issues.
+   - Educating clients on website security best practices and providing ongoing support.
+
+⭐ 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐚𝐧𝐝 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐜𝐲 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
+  - Providing general IT support and troubleshooting services.
+  - Offering consultancy on various IT-related issues and concerns.
+  - Conducting tailored training sessions to educate staff on cybersecurity best practices.
+  - Raising awareness about social engineering techniques and phishing attacks.
+
+
+Currently, I am actively seeking remote/freelance opportunities in the field of cybersecurity. I am passionate about helping organizations and individuals protect their sensitive information and assets from cyber threats. I am eager to put my skills and knowledge to work in a dynamic and challenging environment.
+
+🎫Feel free to reach out if you have any questions or need further assistance! Follow me to learn more about my experience and skills in the field of cybersecurity.
 
 ## Skills
 
