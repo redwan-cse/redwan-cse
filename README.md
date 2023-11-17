@@ -1,6 +1,6 @@
 # Overview
 
-👨‍💻 Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist
+👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist**
 
 ---
 
@@ -111,31 +111,19 @@ I am your versatile IT support specialist, offering a broad range of skills from
 | Active Directory           | Penetration Testing           |
 | Application Security       | Reconnaissance                |
 | Computer Forensics          | Reverse Engineering           |
-| Critical Thinking           | Risk Management               |
+| Metasploit Framework        | Risk Management               |
 | Data Privacy                | Software Testing              |
 | Database Penetration Testing| Vulnerability                 |
-| Digital Forensics           | Vulnerability Assessment      |
+| Network Security            | Vulnerability Assessment      |
 | Ethical Hacking             | Vulnerability Management      |
 | Firewalls                   | Web Application Security      |
 | Fuzzing                     | Cloud Security                |
-| Incident Response           |                               |
-| Information Gathering       |                               |
-| Information Security        |                               |
-| Malware                     |                               |
-| Malware Removal             |                               |
-| Metasploit Framework        |                               |
-| Network Security            |                               |
-| Offensive Hacking           |                               |
-| Open-Source Intelligence (OSINT)|                             |
-| Penetration Testing         |                               |
-| Reconnaissance              |                               |
-| Reverse Engineering         |                               |
-| Risk Management             |                               |
-| Software Testing            |                               |
-| Vulnerability               |                               |
-| Vulnerability Assessment    |                               |
-| Vulnerability Management    |                               |
-| Web Application Security    |                               |
+| Incident Response           | Reverse Engineering           |
+| Information Gathering       | Digital Forensics             |
+| Information Security        | Offensive Hacking             |
+| Malware Removal             | Open-Source Intelligence (OSINT)|
+
+
 
 ### Programming Languages
 
