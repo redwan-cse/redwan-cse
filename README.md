@@ -1,6 +1,7 @@
 # Overview
 ---
-### **Specializes in Information Security:**
+
+## **Specializes in Information Security:**
 ---
 
 🔐 **Cybersecurity Expert | Penetration Tester**
@@ -32,7 +33,7 @@ I bring a comprehensive set of Information Security skills, combining expertise 
 
 ---
 
-### **Specializes in DevOps Engineering and Cloud Engineering:**
+## **Specializes in DevOps Engineering and Cloud Engineering:**
 ---
 
 ☁️ **Cloud and DevOps Architect**
@@ -62,7 +63,7 @@ I bring experience in DevOps engineering, cloud integration, and cross-platform 
 
 ---
 
-### **Tech Troubleshooter & IT Support Specialist:**
+## **Tech Troubleshooter & IT Support Specialist:**
 ---
 
 💻 **IT Solutions Architect & Tech Support Specialist**
@@ -92,105 +93,87 @@ I am your versatile IT support specialist, offering a broad range of skills from
 
 ### Cybersecurity
 
-- Active Directory
-- Application Security
-- Computer Forensics
-- Critical Thinking
-- Data Privacy
-- Database Penetration Testing
-- Digital Forensics
-- Ethical Hacking
-- Firewalls
-- Fuzzing
-- Incident Response
-- Information Gathering
-- Information Security
-- Malware
-- Malware Removal
-- Metasploit Framework
-- Network Security
-- Offensive Hacking
-- Open-Source Intelligence (OSINT)
-- Penetration Testing
-- Reconnaissance
-- Reverse Engineering
-- Risk Management
-- Software Testing
-- Vulnerability
-- Vulnerability Assessment
-- Vulnerability Management
-- Web Application Security
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| Active Directory           | Penetration Testing           |
+| Application Security       | Reconnaissance                |
+| Computer Forensics          | Reverse Engineering           |
+| Critical Thinking           | Risk Management               |
+| Data Privacy                | Software Testing              |
+| Database Penetration Testing| Vulnerability                 |
+| Digital Forensics           | Vulnerability Assessment      |
+| Ethical Hacking             | Vulnerability Management      |
+| Firewalls                   | Web Application Security      |
+| Fuzzing                     | Cloud Security                |
+| Incident Response           |                               |
+| Information Gathering       |                               |
+| Information Security        |                               |
+| Malware                     |                               |
+| Malware Removal             |                               |
+| Metasploit Framework        |                               |
+| Network Security            |                               |
+| Offensive Hacking           |                               |
+| Open-Source Intelligence (OSINT)|                             |
+| Penetration Testing         |                               |
+| Reconnaissance              |                               |
+| Reverse Engineering         |                               |
+| Risk Management             |                               |
+| Software Testing            |                               |
+| Vulnerability               |                               |
+| Vulnerability Assessment    |                               |
+| Vulnerability Management    |                               |
+| Web Application Security    |                               |
 
 ### Programming Languages
 
-- Assembly
-- Bash
-- C/C++
-- C#
-- CSS
-- HTML
-- Java
-- JavaScript
-- MySQL
-- Php
-- PowerShell
-- Python
+|          |          |
+| -------- | -------- |
+| Assembly | Bash     |
+| C/C++    | C#       |
+| CSS      | HTML     |
+| Java     | JavaScript|
+| MySQL    | PHP      |
+| PowerShell| Python   |
 
-###  Operating System Proficiency
+### Operating System Proficiency
 
-- Backup and Recovery
-- Command Line Interface (CLI) Proficiency
-- Disk Management
-- File System Management
-- Installation and Configuration
-- Memory Management
-- Multitasking and Multithreading
-- Network Configuration
-- Performance Monitoring and Tuning
-- Process Management
-- Remote Administration
-- Security Management
-- Shell Scripting
-- System Administration
-- System Updates and Patches
-- Troubleshooting and Problem-Solving
-- User Account Management
-- Virtualization
+|                                |                               |
+| ------------------------------ | ----------------------------- |
+| Backup and Recovery            | Command Line Interface (CLI) Proficiency |
+| Disk Management                | File System Management        |
+| Installation and Configuration | Memory Management              |
+| Multitasking and Multithreading | Network Configuration          |
+| Performance Monitoring and Tuning| Process Management             |
+| Remote Administration           | Security Management            |
+| Shell Scripting                 | System Administration          |
+| System Updates and Patches      | Troubleshooting and Problem-Solving |
+| User Account Management         | Virtualization                 |
 
 ### Software Development Expertise
 
-- Agile Development Methodologies
-- API Integration
-- Backend Development
-- Cross-Platform App Development
-- Database Management
-- Deployment and Installation
-- Error Handling
-- Error Logging and Reporting
-- File System Management
-- Frontend Development
-- Internationalization and Localization
-- Memory Management
-- Mobile App Development (iOS and Android)
-- Multithreading
-- Performance Optimization
-- Security Best Practices
-- Testing and Debugging
-- User Interface (UI) Design
-- Version Control (e.g., Git)
-- Web Development (Front-end and Back-end)
+|                                |                               |
+| ------------------------------ | ----------------------------- |
+| Agile Development Methodologies | API Integration                |
+| Backend Development             | Cross-Platform App Development |
+| Database Management             | Deployment and Installation   |
+| Error Handling                  | Error Logging and Reporting    |
+| File System Management          | Frontend Development           |
+| Internationalization and Localization | Memory Management          |
+| Mobile App Development (iOS and Android) | Multithreading             |
+| Performance Optimization        | Security Best Practices        |
+| Testing and Debugging           | User Interface (UI) Design     |
+| Version Control (e.g., Git)     | Web Development (Front-end and Back-end) |
 
 ### Professional Competencies
 
-- Analytical Skills
-- Communication
-- Leadership
-- Organization Skills
-- Organizational Leadership
-- Problem Solving
-- Social Responsibility
-- Source Intelligence
-- Team Collaboration
+|                       |                       |
+| --------------------- | --------------------- |
+| Analytical Skills      | Communication         |
+| Leadership            | Organization Skills    |
+| Organizational Leadership | Problem Solving      |
+| Social Responsibility | Source Intelligence    |
+| Team Collaboration    |                       |
+
 
 ## Volunteering Experience
 
