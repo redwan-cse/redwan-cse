@@ -1,39 +1,92 @@
 # Overview
 
-𝐌𝐝. 𝐑𝐞𝐝𝐰𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 is a cybersecurity analyst, penetration tester, and OSINT analyst from Bangladesh. I hold a Bachelor's degree in Computer Science and Engineering from Jagannath University, Dhaka, which provided me with foundational cybersecurity skills. I am currently pursuing my Master's degree in Computer Science and Engineering from Jagannath University, Dhaka.
+### **Specializes in Information Security:**
+---
 
+🔐 **Cybersecurity Expert | Penetration Tester**
 
-𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐎𝐟𝐟𝐞𝐫𝐢𝐧𝐠𝐬:
+Greetings! I'm Md. Redwan Ahmed, your dedicated Cybersecurity Analyst, Penetration Tester, and Information Security Specialist. Armed with a Bachelor's and Master's in Computer Science and Engineering, I specialize in fortifying digital landscapes against cyber threats.
 
-⭐ 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 (𝐕𝐀𝐏𝐓)
-   - Comprehensive assessment of system security.
-   - Simulating real attacks to identify vulnerabilities.
-   - Providing detailed reports with actionable recommendations.
-   - Testing the effectiveness of existing security measures.
+**Service Offerings:**
+- 🌐 **Vulnerability Assessment and Penetration Testing**
+  - Unleashing simulated attacks to unveil system vulnerabilities.
+  - Crafting comprehensive reports with actionable insights.
+  - Validating the effectiveness of existing security measures.
 
-⭐ 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐎𝐒𝐈𝐍𝐓)
-   - Conducting in-depth research and analysis using publicly available sources.
-   - Gathering intelligence to uncover potential security threats and risks.
-   - Identifying and monitoring digital footprints and online activities.
-   - Providing actionable insights for informed decision-making.
+- 🦠 **Malware Removal and Security**
+  - Identifying and eliminating malware across diverse platforms.
+  - Proactively implementing security measures for future protection.
+  - Empowering clients through security audits and education.
 
-⭐ 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐑𝐞𝐦𝐨𝐯𝐚𝐥 𝐚𝐧𝐝 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
-   - Identifying and removing malware from various CMS platforms and custom websites.
-   - Implementing proactive security measures to prevent future infections.
-   - Conducting security audits to detect vulnerabilities and recommend improvements.
-   - Assisting with Google blacklist removal and Japanese spam indexing issues.
-   - Educating clients on website security best practices and providing ongoing support.
+- 🔍 **Open-Source Intelligence (OSINT)**
+  - Harnessing publicly available sources for in-depth analysis.
+  - Proactively monitoring digital footprints for risk mitigation.
+  - Providing actionable intelligence for informed decision-making.
 
-⭐ 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐚𝐧𝐝 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐜𝐲 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬
-  - Providing general IT support and troubleshooting services.
-  - Offering consultancy on various IT-related issues and concerns.
-  - Conducting tailored training sessions to educate staff on cybersecurity best practices.
-  - Raising awareness about social engineering techniques and phishing attacks.
+- 🛠️ **Advanced Security Tools Proficiency**
+  - Utilizing cutting-edge tools like Kali Linux, Metasploit, Wireshark, and more.
+  - Conducting Source Code Scanning, Incident Response Plans, and Vulnerability Assessments.
 
+🔧 **Why Choose Me?**
+I bring a comprehensive set of Information Security skills, combining expertise in penetration testing, cloud security, and advanced tools to safeguard your digital realm.
 
-Currently, I am actively seeking remote/freelance opportunities in the field of cybersecurity. I am passionate about helping organizations and individuals protect their sensitive information and assets from cyber threats. I am eager to put my skills and knowledge to work in a dynamic and challenging environment.
+---
 
-🎫Feel free to reach out if you have any questions or need further assistance! Follow me to learn more about my experience and skills in the field of cybersecurity.
+### **Specializes in DevOps Engineering and Cloud Engineering:**
+---
+
+☁️ **Cloud and DevOps Architect**
+
+Hello! I'm Md. Redwan Ahmed, your DevOps and Cloud Integration Specialist. With hands-on experience in Google Cloud Platform, Microsoft Azure, AWS, Digital Ocean, Oracle Cloud, Heroku, and more, I excel in architecting and automating seamless development processes.
+
+**Service Offerings:**
+- 🚀 **DevOps Engineering and Automation**
+  - Streamlining development processes through CI/CD pipelines.
+  - Expertise in DevOps Automation and version Control with Git.
+  - Orchestrating deployments using Jenkins, Docker, Kubernetes, and Ansible.
+  - Ensuring seamless collaboration between development and operations.
+
+- ☁️ **Cloud Engineering Proficiency**
+  - Designing scalable and secure cloud architectures.
+  - Optimizing performance through cloud-based innovations.
+  - Leveraging Terraform for Infrastructure as Code (IaC) and efficient resource management.
+  - Ensuring secure Cloud Security practices and Identity and Access Management (IAM).
+
+- 🛠️ **Web Application Deployment and Cross-Platform Mastery**
+  - Expertise in deploying web applications on AWS EC2, Google Cloud Platform, Microsoft Azure, Digital Ocean, Oracle Cloud, Heroku, and more.
+  - Utilizing GitHub Actions for code analysis, formatting, and automated Docker image deployment on DockerHub.
+  - Administering macOS, Linux, CentOS, Microsoft Windows, Ubuntu, and Office 365.
+
+🚁 **Why Choose Me?**
+I bring experience in DevOps engineering, cloud integration, and cross-platform management to elevate your operations and digital capabilities.
+
+---
+
+### **Tech Troubleshooter & IT Support Specialist:**
+---
+
+💻 **IT Solutions Architect & Tech Support Specialist**
+
+Greetings! I'm Md. Redwan Ahmed, your IT Specialist, provides top-notch IT Support and Tech Solutions. With a broad skill set encompassing IT Project Management, Community Management, and Bachelor's and Master's in Computer Science and Engineering, I am dedicated to resolving your IT challenges and ensuring seamless tech experiences.
+
+**Service Offerings:**
+- 💼 **General IT Support and Troubleshooting**
+  - Resolving technical issues promptly and efficiently.
+  - Troubleshooting across macOS, Linux, Windows, and Office 365 environments.
+  - Offering expert assistance with Information Security, Cloud Security, and more.
+
+- 🤝 **Tech Consultancy and System Administration**
+  - Tailoring consultancy services to address your unique needs.
+  - Proven experience in system administration, ensuring robust and reliable IT infrastructures.
+  - Troubleshooting OS-related issues with expertise and precision.
+
+- 🔧 **IT Project Management and Community Management**
+  - Offering insights and solutions for various IT challenges.
+  - Managing IT projects with precision and efficiency.
+  - Fostering community development with a keen eye for technology trends.
+
+🚁 **Why Choose Me?**
+I am your versatile IT support specialist, offering a broad range of skills from troubleshooting and consultancy to project management and community development. Let's enhance your tech landscape together!
 
 ## Skills
 
