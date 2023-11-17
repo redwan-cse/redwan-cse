@@ -171,14 +171,67 @@ I am your versatile IT support specialist, offering a broad range of skills from
 | --------------------- | --------------------- |
 | Analytical Skills      | Communication         |
 | Leadership            | Organization Skills    |
-| Organizational Leadership | Problem Solving      |
+| Organizational Leadership | Problem Solving    |
 | Social Responsibility | Source Intelligence    |
-| Team Collaboration    |                       |
+| Team Collaboration    | Critical Thinking      |
+
+## Skills
+
+### Cybersecurity
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding-right: 20px;">
+    <strong>Left Column</strong>
+    <br>
+    <ul>
+      <li>Active Directory</li>
+      <li>Application Security</li>
+      <!-- Add more skills as needed -->
+    </ul>
+  </div>
+
+  <div style="flex: 50%;">
+    <strong>Right Column</strong>
+    <br>
+    <ul>
+      <li>Penetration Testing</li>
+      <li>Reconnaissance</li>
+      <!-- Add more skills as needed -->
+    </ul>
+  </div>
+</div>
+
+### Programming Languages
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding-right: 20px;">
+    <strong>Left Column</strong>
+    <br>
+    <ul>
+      <li>Assembly</li>
+      <li>Bash</li>
+      <!-- Add more programming languages as needed -->
+    </ul>
+  </div>
+
+  <div style="flex: 50%;">
+    <strong>Right Column</strong>
+    <br>
+    <ul>
+      <li>Python</li>
+      <li>JavaScript</li>
+      <!-- Add more programming languages as needed -->
+    </ul>
+  </div>
+</div>
+
+<!-- Repeat the same structure for other sections -->
+
 
 
 ## Volunteering Experience
 
-- Vice-President, Jagannath University IT Society (2017-Present)
+- Member - President, Jagannath University IT Society (2017-Present)
 - Co-founder, Sherpur District Student Welfare Council (2018-2021)
 
 ## Projects
