@@ -102,139 +102,125 @@ Greetings! I'm Md. Redwan Ahmed, your IT Specialist, provides top-notch IT Suppo
 🚁 **Why Choose Me?**
 I am your versatile IT support specialist, offering a broad range of skills from troubleshooting and consultancy to project management and community development. Let's enhance your tech landscape together!
 
+---
+
 ## Skills
+---
 
 ### Cybersecurity
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| Active Directory           | Penetration Testing           |
-| Application Security       | Reconnaissance                |
-| Computer Forensics          | Reverse Engineering           |
-| Metasploit Framework        | Risk Management               |
-| Data Privacy                | Software Testing              |
-| Database Penetration Testing| Vulnerability                 |
-| Network Security            | Vulnerability Assessment      |
-| Ethical Hacking             | Vulnerability Management      |
-| Firewalls                   | Web Application Security      |
-| Fuzzing                     | Cloud Security                |
-| Incident Response           | Reverse Engineering           |
-| Information Gathering       | Digital Forensics             |
-| Information Security        | Offensive Hacking             |
-| Malware Removal             | Open-Source Intelligence (OSINT)|
-
-
+- Active Directory
+- Application Security
+- Computer Forensics
+- Data Privacy
+- Database Penetration Testing
+- Digital Forensics
+- Ethical Hacking
+- Firewalls
+- Fuzzing
+- Incident Response
+- Information Gathering
+- Information Security
+- Malware
+- Malware Removal
+- Metasploit Framework
+- Network Security
+- Offensive Hacking
+- Open-Source Intelligence (OSINT)
+- Penetration Testing
+- Reconnaissance
+- Reverse Engineering
+- Risk Management
+- Software Testing
+- Vulnerability
+- Vulnerability Assessment
+- Vulnerability Management
+- Web Application Security
+- Cloud Security
 
 ### Programming Languages
 
-|          |          |
-| -------- | -------- |
-| Assembly | Bash     |
-| C/C++    | C#       |
-| CSS      | HTML     |
-| Java     | JavaScript|
-| MySQL    | PHP      |
-| PowerShell| Python   |
+- Assembly
+- Bash
+- C/C++
+- C#
+- CSS
+- HTML
+- Java
+- JavaScript
+- MySQL
+- PHP
+- PowerShell
+- Python
 
 ### Operating System Proficiency
 
-|                                |                               |
-| ------------------------------ | ----------------------------- |
-| Backup and Recovery            | Command Line Interface (CLI) Proficiency |
-| Disk Management                | File System Management        |
-| Installation and Configuration | Memory Management              |
-| Multitasking and Multithreading | Network Configuration          |
-| Performance Monitoring and Tuning| Process Management             |
-| Remote Administration           | Security Management            |
-| Shell Scripting                 | System Administration          |
-| System Updates and Patches      | Troubleshooting and Problem-Solving |
-| User Account Management         | Virtualization                 |
+- Backup and Recovery
+- Command Line Interface (CLI) Proficiency
+- Disk Management
+- File System Management
+- Installation and Configuration
+- Memory Management
+- Multitasking and Multithreading
+- Network Configuration
+- Performance Monitoring and Tuning
+- Process Management
+- Remote Administration
+- Security Management
+- Shell Scripting
+- System Administration
+- System Updates and Patches
+- Troubleshooting and Problem-Solving
+- User Account Management
+- Virtualization
 
 ### Software Development Expertise
 
-|                                |                               |
-| ------------------------------ | ----------------------------- |
-| Agile Development Methodologies | API Integration                |
-| Backend Development             | Cross-Platform App Development |
-| Database Management             | Deployment and Installation   |
-| Error Handling                  | Error Logging and Reporting    |
-| File System Management          | Frontend Development           |
-| Internationalization and Localization | Memory Management          |
-| Mobile App Development (iOS and Android) | Multithreading             |
-| Performance Optimization        | Security Best Practices        |
-| Testing and Debugging           | User Interface (UI) Design     |
-| Version Control (e.g., Git)     | Web Development (Front-end and Back-end) |
+- Agile Development Methodologies
+- API Integration
+- Backend Development
+- Cross-platform app Development
+- Database Management
+- Deployment and Installation
+- Error Handling
+- Error Logging and Reporting
+- File System Management
+- Frontend Development
+- Internationalization and Localization
+- Memory Management
+- Mobile App Development (iOS and Android)
+- Multithreading
+- Performance Optimization
+- Security Best Practices
+- Testing and Debugging
+- User Interface (UI) Design
+- Version Control (e.g., Git)
+- Web Development (Front-end and Back-end)
 
 ### Professional Competencies
 
-|                       |                       |
-| --------------------- | --------------------- |
-| Analytical Skills      | Communication         |
-| Leadership            | Organization Skills    |
-| Organizational Leadership | Problem Solving    |
-| Social Responsibility | Source Intelligence    |
-| Team Collaboration    | Critical Thinking      |
+- Analytical Skills
+- Communication
+- Leadership
+- Critical Thinking
+- Organization Skills
+- Organizational Leadership
+- Problem Solving
+- Social Responsibility
+- Source Intelligence
+- Team Collaboration
 
-## Skills
-
-### Cybersecurity
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding-right: 20px;">
-    <strong>Left Column</strong>
-    <br>
-    <ul>
-      <li>Active Directory</li>
-      <li>Application Security</li>
-      <!-- Add more skills as needed -->
-    </ul>
-  </div>
-
-  <div style="flex: 50%;">
-    <strong>Right Column</strong>
-    <br>
-    <ul>
-      <li>Penetration Testing</li>
-      <li>Reconnaissance</li>
-      <!-- Add more skills as needed -->
-    </ul>
-  </div>
-</div>
-
-### Programming Languages
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding-right: 20px;">
-    <strong>Left Column</strong>
-    <br>
-    <ul>
-      <li>Assembly</li>
-      <li>Bash</li>
-      <!-- Add more programming languages as needed -->
-    </ul>
-  </div>
-
-  <div style="flex: 50%;">
-    <strong>Right Column</strong>
-    <br>
-    <ul>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <!-- Add more programming languages as needed -->
-    </ul>
-  </div>
-</div>
-
-<!-- Repeat the same structure for other sections -->
-
-
+---
 
 ## Volunteering Experience
-
+---
 - Member - President, Jagannath University IT Society (2017-Present)
 - Co-founder, Sherpur District Student Welfare Council (2018-2021)
 
+---
+
 ## Projects
+---
 
 ### JnU_eLibrary
 *Dec 2019 - Mar 2020*
@@ -261,7 +247,10 @@ With CSenthusiastBD, we can easily monitor messages and activities in our server
 
 I have done several shell, powershell and python projects to automate my task. They are currently in private repo because I use them to test my clients' security. Maybe in the future I will share some public resources.
 
+---
+
 ## Contact Me
+---
 
 ### Direct Contact
 
