@@ -14,7 +14,6 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
 
 
 ## **Specializes in Information Security:**
----
 
 🔐 **Cybersecurity Expert | Penetration Tester**
 
@@ -45,7 +44,6 @@ I bring a comprehensive set of Information Security skills, combining expertise 
 
 
 ## **Specializes in DevOps Engineering and Cloud Engineering:**
----
 
 ☁️ **Cloud and DevOps Architect**
 
@@ -74,7 +72,6 @@ I bring experience in DevOps engineering, cloud integration, and cross-platform 
 
 
 ## **Tech Troubleshooter & IT Support Specialist:**
----
 
 💻 **IT Solutions Architect & Tech Support Specialist**
 
@@ -101,7 +98,6 @@ I am your versatile IT support specialist, offering a broad range of skills from
 
 
 ## Skills
----
 
 ### Cybersecurity
 
@@ -208,13 +204,11 @@ I am your versatile IT support specialist, offering a broad range of skills from
 
 
 ## Volunteering Experience
----
 - Member - President, Jagannath University IT Society (2017-Present)
 - Co-founder, Sherpur District Student Welfare Council (2018-2021)
 
 
 ## Projects
----
 
 ### JnU_eLibrary
 *Dec 2019 - Mar 2020*
@@ -243,7 +237,6 @@ I have done several shell, powershell and python projects to automate my task. T
 
 
 ## Contact Me
----
 
 ### Direct Contact
 
