@@ -12,7 +12,6 @@ As an IT Specialist, I provide top-notch IT Support and Tech Solutions. With a c
 
 Let's collaborate to enhance your cybersecurity, development operations, and IT support needs!
 
----
 
 ## **Specializes in Information Security:**
 ---
@@ -44,7 +43,6 @@ Greetings! I'm Md. Redwan Ahmed, your dedicated Cybersecurity Analyst, Penetrati
 🔧 **Why Choose Me?**
 I bring a comprehensive set of Information Security skills, combining expertise in penetration testing, cloud security, and advanced tools to safeguard your digital realm.
 
----
 
 ## **Specializes in DevOps Engineering and Cloud Engineering:**
 ---
@@ -74,7 +72,6 @@ Hello! I'm Md. Redwan Ahmed, your DevOps and Cloud Integration Specialist. With 
 🚁 **Why Choose Me?**
 I bring experience in DevOps engineering, cloud integration, and cross-platform management to elevate your operations and digital capabilities.
 
----
 
 ## **Tech Troubleshooter & IT Support Specialist:**
 ---
@@ -102,7 +99,6 @@ Greetings! I'm Md. Redwan Ahmed, your IT Specialist, provides top-notch IT Suppo
 🚁 **Why Choose Me?**
 I am your versatile IT support specialist, offering a broad range of skills from troubleshooting and consultancy to project management and community development. Let's enhance your tech landscape together!
 
----
 
 ## Skills
 ---
@@ -210,14 +206,12 @@ I am your versatile IT support specialist, offering a broad range of skills from
 - Source Intelligence
 - Team Collaboration
 
----
 
 ## Volunteering Experience
 ---
 - Member - President, Jagannath University IT Society (2017-Present)
 - Co-founder, Sherpur District Student Welfare Council (2018-2021)
 
----
 
 ## Projects
 ---
@@ -247,7 +241,6 @@ With CSenthusiastBD, we can easily monitor messages and activities in our server
 
 I have done several shell, powershell and python projects to automate my task. They are currently in private repo because I use them to test my clients' security. Maybe in the future I will share some public resources.
 
----
 
 ## Contact Me
 ---
