@@ -3,7 +3,6 @@
 👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist**
 
 ---
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter"> </p>
 Greetings! I'm Md. Redwan Ahmed is a dedicated professional with expertise in Cybersecurity, DevOps, and IT Support. As a Cybersecurity Analyst and Information Security Specialist, I hold a Bachelor's and Master's degree in Computer Science and Engineering, specializing in fortifying digital landscapes against cyber threats.
 
 In the realm of DevOps and Cloud Integration, I bring hands-on experience with various platforms, including Google Cloud Platform, Microsoft Azure, AWS, Digital Ocean, Oracle Cloud, and Heroku. My skills shine in architecting and automating seamless development processes to elevate operational efficiency.
@@ -55,6 +54,47 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
   </a>
 </p>
 
+<!-- Education -->
+<h2 align="center">📚 Education</h2>
+
+<!-- Education Table -->
+<table align="center">
+  <tr>
+    <th align="center">TIMELINE</th>
+    <th align="center">DEGREE</th>
+    <th align="center">DEPARTMENT / GROUP</th>
+    <th align="center">INSTITUTION</th>
+    <th align="center">LOCATION</th>
+  </tr>
+  <tr>
+    <td align="center">2022 - Present</td>
+    <td align="center">Masters of Science (M.Sc)</td>
+    <td align="center">Computer Science and Engineering</td>
+    <td align="center">Jagannath University, Dhaka</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2017 - 2020</td>
+    <td align="center">Bachelor of Science (B.Sc)</td>
+    <td align="center">Computer Science and Engineering</td>
+    <td align="center">Jagannath University, Dhaka</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2014 - 2016</td>
+    <td align="center">Higher Secondary School Certificate (HSC)</td>
+    <td align="center">Science</td>
+    <td align="center">Cambrian College</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2008 - 2014</td>
+    <td align="center">Secondary School Certificate (SSC)</td>
+    <td align="center">Science</td>
+    <td align="center">Ideal Preparatory and High School</td>
+    <td align="center">Sherpur, Bangladesh</td>
+  </tr>
+</table>
 
 ## **Specializes in Information Security:**
 
