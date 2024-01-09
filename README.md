@@ -13,12 +13,11 @@ As an IT Specialist, I provide top-notch IT Support and Tech Solutions. With a c
 Let's collaborate to enhance your cybersecurity, development operations, and IT support needs!
 
 
-
 <!-- GitHub Profile Trophy -->
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redwancse&theme=radical" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=redwan-cse&theme=radical" alt="GitHub Profile Trophy">
   </a>
 </p>
 
@@ -28,33 +27,32 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=redwancse&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=redwan-cse&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
   <!-- Top Languages -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwancse&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-cse&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
   </div>
 
   <!-- Contribution Streak -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwancse&theme=radical" alt="Contribution Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwan-cse&theme=radical" alt="Contribution Streak">
   </div>
 </div>
 
 <!-- GitHub Repositories -->
 <h2 align="center">📦 GitHub Repositories</h2>
 <p align="center">
-  <a href="https://github.com/redwancse?tab=repositories" target="_blank">
+  <a href="https://github.com/redwan-cse?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
   </a>
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redwancse&color=blueviolet" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter">
 </p>
-
 
 
 ## **Specializes in Information Security:**
