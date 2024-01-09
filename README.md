@@ -34,11 +34,7 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
   <div style="flex: 1; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-cse&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
   </div>
-
-  <!-- Contribution Streak -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwan-cse&theme=radical" alt="Contribution Streak">
-  </div>
+  
 </div>
 
 <!-- GitHub Repositories -->
@@ -52,6 +48,16 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter">
+</p>
+
+<!-- Certifications -->
+<h2 align="center">📜 Certifications</h2>
+
+<!-- Link to LinkedIn Certifications -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/redwancse/details/certifications" target="_blank">
+    <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
+  </a>
 </p>
 
 
