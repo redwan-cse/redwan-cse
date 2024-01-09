@@ -1,6 +1,6 @@
 # Overview
 
-👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist**
+👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist** <p align="right">  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter"> </p>
 
 ---
 
@@ -43,11 +43,6 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
   <a href="https://github.com/redwan-cse?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
   </a>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter">
 </p>
 
 <!-- Certifications -->
