@@ -1,9 +1,9 @@
 # Overview
 
-👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist** <p align="right">  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter"> </p>
+👨‍💻 **Md. Redwan Ahmed: Cybersecurity Specialist, DevOps Engineer, and IT Solutions Specialist**
 
 ---
-
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=redwan-cse&color=blueviolet" alt="Visitor Counter"> </p>
 Greetings! I'm Md. Redwan Ahmed is a dedicated professional with expertise in Cybersecurity, DevOps, and IT Support. As a Cybersecurity Analyst and Information Security Specialist, I hold a Bachelor's and Master's degree in Computer Science and Engineering, specializing in fortifying digital landscapes against cyber threats.
 
 In the realm of DevOps and Cloud Integration, I bring hands-on experience with various platforms, including Google Cloud Platform, Microsoft Azure, AWS, Digital Ocean, Oracle Cloud, and Heroku. My skills shine in architecting and automating seamless development processes to elevate operational efficiency.
