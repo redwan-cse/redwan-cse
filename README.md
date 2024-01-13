@@ -16,7 +16,7 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redwan-cse&theme=radical" alt="GitHub Profile Trophy">
+    https://github-profile-trophy.vercel.app/?username=redwan-cse&column=3&margin-w=15&margin-h=15
   </a>
 </p>
 
