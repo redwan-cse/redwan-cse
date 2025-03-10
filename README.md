@@ -1,16 +1,38 @@
-# Overview
+<!-- Title and Header -->
+<h1 align="center">Md. Redwan Ahmed - Cybersecurity Professional (Purple Team)</h1>
 
-👨‍💻 **Md. Redwan Ahmed: Cyber Security Professional (Purple Team) | IT Solutions Specialist**
 
----
-Greetings! I'm Md. Redwan Ahmed is a dedicated professional with expertise in Cybersecurity, DevOps, and IT Support. As a Cybersecurity Analyst and Information Security Specialist, I hold a Bachelor's and Master's degree in Computer Science and Engineering, specializing in fortifying digital landscapes against cyber threats.
+<!-- Professional Profile -->
+<h2 align="center">Professional Profile</h2>
 
-In the realm of DevOps and Cloud Integration, I bring hands-on experience with various platforms, including Google Cloud Platform, Microsoft Azure, AWS, Digital Ocean, Oracle Cloud, and Heroku. My skills shine in architecting and automating seamless development processes to elevate operational efficiency.
+I am Md. Redwan Ahmed, a passionate Cybersecurity Professional specializing in penetration testing, vulnerability assessments, and security consulting. With a robust background in Computer Science & Engineering, I lead Fast Cyber Defense as its Founder & CEO. I focus on safeguarding digital assets, promoting secure coding practices, and delivering effective cybersecurity solutions.
 
-As an IT Specialist, I provide top-notch IT Support and Tech Solutions. With a comprehensive skill set covering IT Project Management, Community Management and a solid educational background in Computer Science and Engineering, I am committed to resolving your IT challenges and ensuring seamless tech experiences.
+- **LinkedIn:** [redwancse](https://www.linkedin.com/in/redwancse)
+- **Personal Website:** [redwan.work](https://redwan.work)
+- **Company:** [Fast Cyber Defense](https://fastcyberdefense.com)
 
-Let's collaborate to enhance your cybersecurity, development operations, and IT support needs!
 
+<h2 align="center">Experience</h2>
+
+### Founder & CEO at Fast Cyber Defense
+I spearhead Fast Cyber Defense, driving cybersecurity innovations and delivering advanced security services including penetration testing, vulnerability assessments, and comprehensive security consulting.
+
+Other notable experiences:
+- **Professional Information Security Freelancer** at Upwork (Apr 2023 - Present)
+- **IT Technician** at ThorTech (Jul 2021 - Oct 2023)
+- **System Administrator Trainer** at AsiaInfo Technologies Ltd (Mar 2024 - Apr 2024)
+- **Internship** at Arena Web Security and Prime Tech Solutions Ltd.
+- **Trainer** roles at various organizations including Jagannath University, Enhancing Digital Government and Economy (EDGE) Project and others
+- **Leadership** roles at Jagannath University IT Society and other organizations
+- **Assistant Research Fellows** roles at ITRRC Cybersecurity Research Lab and JnU-Emerging Data Science Lab
+
+
+<h2 align="center">Key Technical Skills</h2>
+
+- **Cybersecurity & Networking:** Ethical Hacking, Vulnerability Assessment, Penetration Testing, OSINT, Cryptography
+- **System Administration:** Linux (CentOS, Ubuntu), Ansible, Docker, Kubernetes, AWS, DigitalOcean, Azure
+- **Programming & Scripting:** Python, Java, C, C++, PHP, C#, PowerShell, Shell, Batch Scripting
+- **AI Utilization:** ChatGPT, GitHub Copilot, and other AI tools for enhanced productivity
 
 <!-- GitHub Profile Trophy -->
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
@@ -20,39 +42,7 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
   </a>
 </p>
 
-<!-- Statistical Overview -->
-<h2 align="center">📊 Statistical Overview</h2>
-<!-- GitHub Stats, Top Languages, and Contribution Streak -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=redwan-cse&show_icons=true&theme=radical" alt="GitHub Stats">
-  </div>
 
-  <!-- Top Languages -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-cse&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-  </div>
-  
-</div>
-
-<!-- GitHub Repositories -->
-<h2 align="center">📦 GitHub Repositories</h2>
-<p align="center">
-  <a href="https://github.com/redwan-cse?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
-  </a>
-</p>
-
-<!-- Certifications -->
-<h2 align="center">📜 Certifications</h2>
-
-<!-- Link to LinkedIn Certifications -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/redwancse/details/certifications" target="_blank">
-    <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
-  </a>
-</p>
 
 <!-- Education -->
 <h2 align="center">📚 Education</h2>
@@ -67,14 +57,14 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
     <th align="center">LOCATION</th>
   </tr>
   <tr>
-    <td align="center">2022 - Present</td>
+    <td align="center">2022 - 2024</td>
     <td align="center">Masters of Science (M.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center">Jagannath University, Dhaka</td>
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
   <tr>
-    <td align="center">2017 - 2020</td>
+    <td align="center">2017 - 2022</td>
     <td align="center">Bachelor of Science (B.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center">Jagannath University, Dhaka</td>
@@ -96,247 +86,58 @@ Let's collaborate to enhance your cybersecurity, development operations, and IT 
   </tr>
 </table>
 
-## **Specializes in Information Security:**
 
-🔐 **Cybersecurity Expert | Penetration Tester**
+<!-- Certifications -->
+<h2 align="center"> Certifications</h2>
 
-Greetings! I'm Md. Redwan Ahmed, your dedicated Cybersecurity Analyst, Penetration Tester, and Information Security Specialist. Armed with a Bachelor's and Master's in Computer Science and Engineering, I specialize in fortifying digital landscapes against cyber threats.
-
-**Service Offerings:**
-- 🌐 **Vulnerability Assessment and Penetration Testing**
-  - Unleashing simulated attacks to unveil system vulnerabilities.
-  - Crafting comprehensive reports with actionable insights.
-  - Validating the effectiveness of existing security measures.
-
-- 🦠 **Malware Removal and Security**
-  - Identifying and eliminating malware across diverse platforms.
-  - Proactively implementing security measures for future protection.
-  - Empowering clients through security audits and education.
-
-- 🔍 **Open-Source Intelligence (OSINT)**
-  - Harnessing publicly available sources for in-depth analysis.
-  - Proactively monitoring digital footprints for risk mitigation.
-  - Providing actionable intelligence for informed decision-making.
-
-- 🛠️ **Advanced Security Tools Proficiency**
-  - Utilizing cutting-edge tools like Kali Linux, Metasploit, Wireshark, and more.
-  - Conducting Source Code Scanning, Incident Response Plans, and Vulnerability Assessments.
-
-🔧 **Why Choose Me?**
-I bring a comprehensive set of Information Security skills, combining expertise in penetration testing, cloud security, and advanced tools to safeguard your digital realm.
-
-
-## **Specializes in DevOps Engineering and Cloud Engineering:**
-
-☁️ **Cloud and DevOps Architect**
-
-Hello! I'm Md. Redwan Ahmed, your DevOps and Cloud Integration Specialist. With hands-on experience in Google Cloud Platform, Microsoft Azure, AWS, Digital Ocean, Oracle Cloud, Heroku, and more, I excel in architecting and automating seamless development processes.
-
-**Service Offerings:**
-- 🚀 **DevOps Engineering and Automation**
-  - Streamlining development processes through CI/CD pipelines.
-  - Expertise in DevOps Automation and version Control with Git.
-  - Orchestrating deployments using Jenkins, Docker, Kubernetes, and Ansible.
-  - Ensuring seamless collaboration between development and operations.
-
-- ☁️ **Cloud Engineering Proficiency**
-  - Designing scalable and secure cloud architectures.
-  - Optimizing performance through cloud-based innovations.
-  - Leveraging Terraform for Infrastructure as Code (IaC) and efficient resource management.
-  - Ensuring secure Cloud Security practices and Identity and Access Management (IAM).
-
-- 🛠️ **Web Application Deployment and Cross-Platform Mastery**
-  - Expertise in deploying web applications on AWS EC2, Google Cloud Platform, Microsoft Azure, Digital Ocean, Oracle Cloud, Heroku, and more.
-  - Utilizing GitHub Actions for code analysis, formatting, and automated Docker image deployment on DockerHub.
-  - Administering macOS, Linux, CentOS, Microsoft Windows, Ubuntu, and Office 365.
-
-🚁 **Why Choose Me?**
-I bring experience in DevOps engineering, cloud integration, and cross-platform management to elevate your operations and digital capabilities.
+| Certification | Issuer | Issued | Credential ID | Skills/Highlights |
+| ------------- | ------ | ------ | ------------- | ----------------- |
+| Database Essentials and Vulnerabilities | IBM | Mar 2025 | NOLXCRPW73WS | - |
+| Incident Response and Digital Forensics | IBM | Feb 2025 | K0OA0Q547SSA | Digital Forensics, Incident Response |
+| Introduction to Cybersecurity Careers | IBM | Feb 2025 | SM5VW6AN4SBC | - |
+| Introduction to Cybersecurity Essentials | IBM | Feb 2025 | 2XWR7X4ZTRYY | - |
+| Secure Programming with C++ | EC-Council Learning | Jan 2025 | 381844 | C++, Secure Coding; Memory management, code injection prevention, multithreading security |
+| Secure Programming with Java | EC-Council Learning | Jan 2025 | 381849 | Secure Coding, Java; Secure application design, cryptography, error handling, race conditions, security testing |
+| Advanced Open Source Intelligence and Privacy | EC-Council Learning | Dec 2024 | 376657 | Information Gathering, Information Security, OSINT |
+| Practical DevSecOps with GitHub Actions | EC-Council Learning | Dec 2024 | 375773 | DevOps, DevSecOps, GitHub; Automating workflows & integrating security tools |
+| Secure Programming with C | EC-Council Learning | Dec 2024 | 381249 | Secure Coding, C; Buffer overflows, secure file I/O, pointer safety |
+| Hands-on Linux for DevOps & Cloud Engineers | EC-Council Learning | Nov 2024 | 373487 | CI/CD, Linux SysAdmin, AWS, Shell Scripting, Cloud Security, DevOps |
+| IEEE CS BDC Symposium 2024 | IEEE Computer Society Bangladesh Chapter | Nov 2024 | 156 | - |
+| Applied Live Forensics | EC-Council Learning | Oct 2024 | 363343 | Digital Forensics, Computer Forensics |
+| GitHub Foundations | GitHub | Oct 2024 (Expires Oct 2027) | M125089334 | Git, GitHub Copilot, Codespaces, Issue Management |
+| Prepare for the GitHub Foundations Certification | LinkedIn | Oct 2024 | - | GitHub Copilot, Codespaces, GitHub, Issue Management |
+| Reverse Engineering: Frida For Beginners | EC-Council Learning | Oct 2024 | 363912 | Reverse Engineering |
+| Cloud Computing | ICT Division | Sep 2024 | HAT/PTSL/CC/01 | MySQL, cPanel, Django, GitHub, AWS, Cloud Security, Web Hosting, YML, NoSQL, Cloud Computing, Docker, GCP |
+| OWASP Top 10 for Docker Containers and Kubernetes Security | EC-Council Learning | Sep 2024 | 362455 | Cloud Security, Docker Products |
+| Penetration Testing, Incident Response and Forensics | IBM | Jul 2024 | AQJJV7DYZPZR | Digital Forensics, Penetration Testing, Python, Incident Response, Vulnerability Assessment |
+| Certified Network Security Practitioner (CNSP) | The SecOps Group | Jun 2024 | 8811570 | Network Security |
+| Mastercard - Cybersecurity Job Simulation | Forage | Jun 2024 | Eit9q7aXseEQaAYpw | - |
+| Jr Penetration Tester | TryHackMe | Apr 2024 | THM-1F9FZJ3YIU | Cybersecurity, Penetration Testing, Ethical Hacking |
+| Cryptography: Learn Public Key Infrastructure from Scratch | EC-Council Learning | Dec 2023 | 277167 | Cybersecurity |
+| Kali for Penetration Testers | EC-Council Learning | Dec 2023 | 273426 | Cybersecurity, Penetration Testing, Ethical Hacking |
+| 21st Century Employability Skilling Program - Advanced | Wadhwani Foundation | Nov 2023 | 655e4528cbe74e70300d680a | Communication, Team Collaboration, Problem Solving |
+| Learning PC Maintenance and Performance | LinkedIn | Aug 2023 | - | - |
+| Network Security & Database Vulnerabilities | IBM | Aug 2023 | JZHNNV945BC6 | - |
+| Cyber Security | Arena Web Security | Jul 2023 | A43W1911S016 | Web App Security, Penetration Testing, OSINT, Ethical Hacking, Vulnerability Assessment, SysAdmin, Info System Audit |
+| Cybersecurity Compliance Framework & System Administration | IBM | Jul 2023 | LMX6LNBPPBW5 | - |
+| Cybersecurity Roles, Processes & Operating System Security | IBM | Jun 2023 | XBL7ME5E9UTH | Cybersecurity, Linux, GDPR, Operating Systems |
+| SQL Injections Unlocked - SQLi Web Attacks | ComproAvi | Jun 2023 | 0c711741-6083-4cbd-badc-bb4332fbb244 | Cybersecurity, Vulnerability Assessment |
+| Short Course: CISSP (Updated) | IT Masters (Charles Sturt University) | Jun 2023 | 4672 | Risk Assessment, Cybersecurity |
+| Introduction to Cybersecurity Tools & Cyber Attacks | IBM | May 2023 | A66YNSZB3EWD | Risk Assessment, Vulnerability Management, Data Privacy, Cybersecurity, CTI, Network Security, IT, Incident Response, GDPR, Risk Management |
+| Offensive Hacking Unfolded | ComproAvi | May 2023 | 0f554876-6924-49a3-bbb2-716dcb62e580 | Vulnerability Management, Penetration Testing, Network Security, IT, Information Gathering, Vulnerability Assessment |
+| OSINT: "Unleashing the Power of Public Information" - 2023+ | Udemy | Apr 2023 | UC-59b47534-3366-4c64-87d8-c43a45b5904e | OSINT, IT, Information Gathering |
+| Real Ethical Hacking in 30 Hours &#124; Certificated CSEH+ 2023 | Udemy | Apr 2023 | UC-ea3a276c-a07b-4c75-8c27-2e4a850f5e49 | Networking, Network Security, OSINT, C++, Linux, Malware Analysis, Metasploit, IT, Incident Response, Firewalls, Information Gathering, Vulnerability Assessment, Info System Audit |
+| Certified AppSec Practitioner (CAP) | The SecOps Group | Mar 2023 | 7208209 | Web App Security, Penetration Testing, IT, Application Security, Vulnerability Assessment |
+| Deep Dive into Open Source Intelligence using a Windows Host | EC-Council Learning | Mar 2023 | 206924 | OSINT, IT, Source Intelligence |
+| Recon for bug bounty, penetration testers &#124; ethical hackers | Udemy | Mar 2023 | UC-b3738704-cad7-43fd-b68c-6c77c495c225 | Network Security, OSINT, Reconnaissance, IT, Ethical Hacking, Vulnerability Assessment |
+| Getting Started with Open Source Intelligence using a Windows Host | EC-Council Learning | Jan 2023 | 178855 | OSINT, IT, Source Intelligence |
+| (ISC)² Candidate | ISC2 | May 2023 (Expired May 2024) | - | Risk Assessment, IT, GDPR, Risk Management |
+| OFSA Certification | OPSWAT Academy | May 2023 (Expired May 2024) | AqaDNQz6Hg | Risk Assessment, Data Privacy, IT, Incident Response |
 
 
-## **Tech Troubleshooter & IT Support Specialist:**
-
-💻 **IT Solutions Architect & Tech Support Specialist**
-
-Greetings! I'm Md. Redwan Ahmed, your IT Specialist, provides top-notch IT Support and Tech Solutions. With a broad skill set encompassing IT Project Management, Community Management, and Bachelor's and Master's in Computer Science and Engineering, I am dedicated to resolving your IT challenges and ensuring seamless tech experiences.
-
-**Service Offerings:**
-- 💼 **General IT Support and Troubleshooting**
-  - Resolving technical issues promptly and efficiently.
-  - Troubleshooting across macOS, Linux, Windows, and Office 365 environments.
-  - Offering expert assistance with Information Security, Cloud Security, and more.
-
-- 🤝 **Tech Consultancy and System Administration**
-  - Tailoring consultancy services to address your unique needs.
-  - Proven experience in system administration, ensuring robust and reliable IT infrastructures.
-  - Troubleshooting OS-related issues with expertise and precision.
-
-- 🔧 **IT Project Management and Community Management**
-  - Offering insights and solutions for various IT challenges.
-  - Managing IT projects with precision and efficiency.
-  - Fostering community development with a keen eye for technology trends.
-
-🚁 **Why Choose Me?**
-I am your versatile IT support specialist, offering a broad range of skills from troubleshooting and consultancy to project management and community development. Let's enhance your tech landscape together!
-
-
-## Skills
-
-### Cybersecurity
-
-- Active Directory
-- Application Security
-- Computer Forensics
-- Data Privacy
-- Database Penetration Testing
-- Digital Forensics
-- Ethical Hacking
-- Firewalls
-- Fuzzing
-- Incident Response
-- Information Gathering
-- Information Security
-- Malware
-- Malware Removal
-- Metasploit Framework
-- Network Security
-- Offensive Hacking
-- Open-Source Intelligence (OSINT)
-- Penetration Testing
-- Reconnaissance
-- Reverse Engineering
-- Risk Management
-- Software Testing
-- Vulnerability
-- Vulnerability Assessment
-- Vulnerability Management
-- Web Application Security
-- Cloud Security
-
-### Programming Languages
-
-- Assembly
-- Bash
-- C/C++
-- C#
-- CSS
-- HTML
-- Java
-- JavaScript
-- MySQL
-- PHP
-- PowerShell
-- Python
-
-### Operating System Proficiency
-
-- Backup and Recovery
-- Command Line Interface (CLI) Proficiency
-- Disk Management
-- File System Management
-- Installation and Configuration
-- Memory Management
-- Multitasking and Multithreading
-- Network Configuration
-- Performance Monitoring and Tuning
-- Process Management
-- Remote Administration
-- Security Management
-- Shell Scripting
-- System Administration
-- System Updates and Patches
-- Troubleshooting and Problem-Solving
-- User Account Management
-- Virtualization
-
-### Software Development Expertise
-
-- Agile Development Methodologies
-- API Integration
-- Backend Development
-- Cross-platform app Development
-- Database Management
-- Deployment and Installation
-- Error Handling
-- Error Logging and Reporting
-- File System Management
-- Frontend Development
-- Internationalization and Localization
-- Memory Management
-- Mobile App Development (iOS and Android)
-- Multithreading
-- Performance Optimization
-- Security Best Practices
-- Testing and Debugging
-- User Interface (UI) Design
-- Version Control (e.g., Git)
-- Web Development (Front-end and Back-end)
-
-### Professional Competencies
-
-- Analytical Skills
-- Communication
-- Leadership
-- Critical Thinking
-- Organization Skills
-- Organizational Leadership
-- Problem Solving
-- Social Responsibility
-- Source Intelligence
-- Team Collaboration
-
-
-## Volunteering Experience
-- Member - President, Jagannath University IT Society (2017-Present)
-- Co-founder, Sherpur District Student Welfare Council (2018-2021)
-
-
-## Projects
-
-### JnU_eLibrary
-*Dec 2019 - Mar 2020*
-
-JnU_eLibrary was an android-based mobile application program designed to digitalise the central library of Jagannath University, Dhaka-1100. This project was instructed by our honourable teacher, Dr. Sajeeb Saha. With my teammate, Sudipta Kumar Mondol, I have completed this project. We designed this project based on the central library management authority's needs & focusing on their existing problems.
-
-In this project, my tasks were:
-
-- Discussing with central library employees and students to identify their problems
-- Designing solutions for the identified problems in collaboration with my teammate
-- Testing the application and identifying any bugs
-- Checking the source code and helping teammates fix any issues
-- Collecting resources for the application
-
-We worked together remotely and always communicated with each other while doing our jobs. The source code for this project can be found [here](https://github.com/Redwan-CSE/JnU_eLibrary).
-
-### CSenthusiastBD - Discord Bot for Server Management and Moderation.
-
-CSenthusiastBD is a powerful Discord bot that can effectively monitor discord messages, manage members, send welcome messages, generate server logs, and perform most of the moderation tasks in our server. Created by me, this bot has been specifically designed to meet the needs of the CS Enthusiast community, and it's available exclusively for our private Discord server.
-
-With CSenthusiastBD, we can easily monitor messages and activities in our server, and keep it safe from spammers, trolls, and other undesirable elements. The bot can be easily configured to send welcome messages to new members, and also to manage roles and permissions. The bot can also generate detailed server logs, which can help us keep track of the activities of our members. Moreover, CSenthusiastBD is highly customizable and can be easily integrated with your existing Discord server. Source code is currently in private repo.
-
-### Cyber Security Related Projects:
-
-I have done several shell, powershell and python projects to automate my task. They are currently in private repo because I use them to test my clients' security. Maybe in the future I will share some public resources.
-
-
-## Contact Me
-
-### Direct Contact
-
-- Email: [![Email](https://img.shields.io/badge/Email-redwanse%40outlook.com-red?logo=microsoft-outlook)](mailto:redwanse@outlook.com)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-(%2B880)1776387624-green?logo=WhatsApp)](tel:+8801776387624)
-- Skype: [![Skype](https://img.shields.io/badge/Skype:redwanse-blue?logo=Skype)](skype:live:redwanse?call)
-
-### Networking Platform
-
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-redwancse-blue?logo=linkedin)](https://www.linkedin.com/in/redwancse/)
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-RedwanCSE-blue?logo=twitter)](https://twitter.com/RedwanCSE)
-- Facebook: [![Facebook](https://img.shields.io/badge/Facebook-redwancse-blue?logo=facebook)](https://www.facebook.com/redwancse)
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-redwancse-purple?logo=instagram)](https://www.instagram.com/redwancse)
-- Discord: [![Discord](https://img.shields.io/badge/Discord-CSenthusiastBD-blueviolet?logo=discord)](https://discord.gg/rZ3n2aHXgX)
-- Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Md--Redwan--Ahmed-orange?logo=stackoverflow)](https://stackoverflow.com/users/21417664/md-redwan-ahmed)
-- Medium: [![Medium](https://img.shields.io/badge/Medium-redwancse-black?logo=medium)](https://redwancse.medium.com/)
-- GitHub Page: [![GitHub Page](https://img.shields.io/badge/GitHub%20Page-redwan--cse.github.io-green?logo=github)](https://redwan-cse.github.io/)
-- Patreon: [![Patreon](https://img.shields.io/badge/Patreon-redwancse-red?logo=patreon)](https://www.patreon.com/user?u=22291805)
-
-Thank you for visiting my profile! Feel free to reach out to me for any questions or collaboration opportunities.
+## Contact
+- **Email:** [redwanse@outlook.com](mailto:redwanse@outlook.com)
+- **Phone:** +8801776387624
+- **LinkedIn:** [redwancse](https://www.linkedin.com/in/redwancse)
+- **Personal Website:** [redwan.work](https://redwan.work)
+- **Company:** [Fast Cyber Defense](https://fastcyberdefense.com)
