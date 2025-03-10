@@ -3,7 +3,7 @@
 
 
 <!-- Professional Profile -->
-<h2 align="center">Professional Profile</h2>
+<h2 align="center">👤 About Me</h2>
 
 I am Md. Redwan Ahmed, a passionate Cybersecurity Professional specializing in penetration testing, vulnerability assessments, and security consulting. With a robust background in Computer Science & Engineering, I lead Fast Cyber Defense as its Founder & CEO. I focus on safeguarding digital assets, promoting secure coding practices, and delivering effective cybersecurity solutions.
 
@@ -11,8 +11,8 @@ I am Md. Redwan Ahmed, a passionate Cybersecurity Professional specializing in p
 - **Personal Website:** [redwan.work](https://redwan.work)
 - **Company:** [Fast Cyber Defense](https://fastcyberdefense.com)
 
-
-<h2 align="center">Experience</h2>
+<!--Experience-->
+<h2 align="center">💼 Professional Experience</h2>
 
 ### Founder & CEO at Fast Cyber Defense
 I spearhead Fast Cyber Defense, driving cybersecurity innovations and delivering advanced security services including penetration testing, vulnerability assessments, and comprehensive security consulting.
@@ -22,12 +22,12 @@ Other notable experiences:
 - **IT Technician** at ThorTech (Jul 2021 - Oct 2023)
 - **System Administrator Trainer** at AsiaInfo Technologies Ltd (Mar 2024 - Apr 2024)
 - **Internship** at Arena Web Security and Prime Tech Solutions Ltd.
-- **Trainer** roles at various organizations including Jagannath University, Enhancing Digital Government and Economy (EDGE) Project and others
+- **Trainer**(MS Office, Python, ML, Cybersecurity, Linux Administration) roles at various organizations including Jagannath University, Enhancing Digital Government and Economy (EDGE) Project and others
 - **Leadership** roles at Jagannath University IT Society and other organizations
 - **Assistant Research Fellows** roles at ITRRC Cybersecurity Research Lab and JnU-Emerging Data Science Lab
 
-
-<h2 align="center">Key Technical Skills</h2>
+<!-- Skills & Expertise -->
+<h2 align="center">🛠️ Skills & Expertise</h2>
 
 - **Cybersecurity & Networking:** Ethical Hacking, Vulnerability Assessment, Penetration Testing, OSINT, Cryptography
 - **System Administration:** Linux (CentOS, Ubuntu), Ansible, Docker, Kubernetes, AWS, DigitalOcean, Azure
@@ -45,7 +45,7 @@ Other notable experiences:
 
 
 <!-- Education -->
-<h2 align="center">📚 Education</h2>
+<h2 align="center">🎓 Education</h2>
 
 <!-- Education Table -->
 <table align="center">
@@ -88,7 +88,7 @@ Other notable experiences:
 
 
 <!-- Certifications -->
-<h2 align="center"> Certifications</h2>
+<h2 align="center">🏅 Certifications</h2>
 
 | Certification | Issuer | Issued | Credential ID | Skills/Highlights |
 | ------------- | ------ | ------ | ------------- | ----------------- |
@@ -134,8 +134,9 @@ Other notable experiences:
 | (ISC)² Candidate | ISC2 | May 2023 (Expired May 2024) | - | Risk Assessment, GDPR, Risk Management |
 | OFSA Certification | OPSWAT Academy | May 2023 (Expired May 2024) | AqaDNQz6Hg | Risk Assessment, Data Privacy, Incident Response |
 
+<!-- Contact Information -->
+<h2 align="center">📞 Contact Information</h2>
 
-## Contact
 - **Email:** [redwanse@outlook.com](mailto:redwanse@outlook.com)
 - **Phone:** +8801776387624
 - **LinkedIn:** [redwancse](https://www.linkedin.com/in/redwancse)
