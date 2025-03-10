@@ -22,7 +22,7 @@ Other notable experiences:
 - **IT Technician** at ThorTech (Jul 2021 - Oct 2023)
 - **System Administrator Trainer** at AsiaInfo Technologies Ltd (Mar 2024 - Apr 2024)
 - **Internship** at Arena Web Security and Prime Tech Solutions Ltd.
-- **Trainer**(MS Office, Python, ML, Cybersecurity, Linux Administration) roles at various organizations including Jagannath University, Enhancing Digital Government and Economy (EDGE) Project and others
+- **Trainer**(MS Office, Python, ML, Cybersecurity, Linux Administration) roles at various organizations including Jagannath University IT Society, Enhancing Digital Government and Economy (EDGE) Project and others
 - **Leadership** roles at Jagannath University IT Society and other organizations
 - **Assistant Research Fellows** roles at ITRRC Cybersecurity Research Lab and JnU-Emerging Data Science Lab
 
