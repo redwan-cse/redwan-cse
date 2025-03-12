@@ -32,7 +32,7 @@ Other notable experiences:
 - **Cybersecurity & Networking:** Ethical Hacking, Vulnerability Assessment, Penetration Testing, OSINT, Cryptography
 - **System Administration:** Linux (CentOS, Ubuntu), Ansible, Docker, Kubernetes, AWS, DigitalOcean, Azure
 - **Programming & Scripting:** Python, Java, C, C++, PHP, C#, PowerShell, Shell, Batch Scripting
-- **AI Utilization:** ChatGPT, GitHub Copilot, and other AI tools for enhanced productivity
+- **AI Utilization:** ChatGPT, GitHub Copilot, Agentic AI(ex. n8n) and other AI tools for enhanced productivity
 
 <!-- GitHub Profile Trophy -->
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
