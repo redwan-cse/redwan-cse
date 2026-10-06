@@ -1,144 +1,82 @@
-<!-- Title and Header -->
-<h1 align="center">Md. Redwan Ahmed - Cybersecurity Professional (Purple Team)</h1>
+<div align="center">
 
+# Md. Redwan Ahmed
+### Cybersecurity Researcher & Purple Team Engineer • Founder & CEO, Fast Cyber Defense
 
-<!-- Professional Profile -->
-<h2 align="center">👤 About Me</h2>
+[![Website](https://img.shields.io/badge/Portfolio-redwan.work-blue?style=flat-square&logo=google-chrome)](https://redwan.work)
+[![Research Blog](https://img.shields.io/badge/Publication-blogs.redwan.work-00DC82?style=flat-square&logo=blogger)](https://blogs.redwan.work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-redwancse-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/redwancse)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9419--4760-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0001-9419-4760)
+[![Company](https://img.shields.io/badge/Fast%20Cyber%20Defense-fastcyberdefense.com-critical?style=flat-square&logo=shield)](https://fastcyberdefense.com)
 
-I am Md. Redwan Ahmed, a passionate Cybersecurity Professional specializing in penetration testing, vulnerability assessments, and security consulting. With a robust background in Computer Science & Engineering, I lead Fast Cyber Defense as its Founder & CEO. I focus on safeguarding digital assets, promoting secure coding practices, and delivering effective cybersecurity solutions.
+---
 
-- **LinkedIn:** [redwancse](https://www.linkedin.com/in/redwancse)
-- **Personal Website:** [redwan.work](https://redwan.work)
-- **Company:** [Fast Cyber Defense](https://fastcyberdefense.com)
+</div>
 
-<!--Experience-->
-<h2 align="center">💼 Professional Experience</h2>
+## 👤 Executive Profile
 
-### Founder & CEO at Fast Cyber Defense
-I spearhead Fast Cyber Defense, driving cybersecurity innovations and delivering advanced security services including penetration testing, vulnerability assessments, and comprehensive security consulting.
+I am a **Cybersecurity Researcher and Purple Team Engineer** specializing in offensive threat modeling, vulnerability research, and blue team detection engineering. I hold an **M.Sc. and B.Sc. in Computer Science & Engineering** from Jagannath University, Dhaka, and serve as the **Founder & CEO at [Fast Cyber Defense](https://fastcyberdefense.com)**.
 
-Other notable experiences:
-- **Professional Information Security Freelancer** at Upwork (Apr 2023 - Present)
-- **IT Technician** at ThorTech (Jul 2021 - Oct 2023)
-- **System Administrator Trainer** at AsiaInfo Technologies Ltd (Mar 2024 - Apr 2024)
-- **Internship** at Arena Web Security and Prime Tech Solutions Ltd.
-- **Trainer**(MS Office, Python, ML, Cybersecurity, Linux Administration) roles at various organizations including Jagannath University IT Society, Enhancing Digital Government and Economy (EDGE) Project and others
-- **Leadership** roles at Jagannath University IT Society and other organizations
-- **Assistant Research Fellows** roles at ITRRC Cybersecurity Research Lab and JnU-Emerging Data Science Lab
+My research focuses on dissecting high-impact attack primitives (Active Directory abuse, cloud IAM privilege escalation, Linux kernel race conditions, and AI gateway vulnerabilities) and pairing them directly with actionable detection engineering artifacts (Sigma rules, Falco policies, Sysmon telemetry).
 
-<!-- Skills & Expertise -->
-<h2 align="center">🛠️ Skills & Expertise</h2>
+---
 
-- **Cybersecurity & Networking:** Ethical Hacking, Vulnerability Assessment, Penetration Testing, OSINT, Cryptography
-- **System Administration:** Linux (CentOS, Ubuntu), Ansible, Docker, Kubernetes, AWS, DigitalOcean, Azure
-- **Programming & Scripting:** Python, Java, C, C++, PHP, C#, PowerShell, Shell, Batch Scripting
-- **AI Utilization:** ChatGPT, GitHub Copilot, Agentic AI(ex. n8n) and other AI tools for enhanced productivity
+## 🛡️ Featured Cybersecurity Research Publications
 
-<!-- GitHub Profile Trophy -->
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redwan-cse&column=4&margin-w=15&margin-h=15" alt="GitHub Stats">
-  </a>
-</p>
+I author comprehensive deep-dives with architecture diagrams and detection rules at **[blogs.redwan.work](https://blogs.redwan.work/)**.
 
+<!-- RESEARCH-FEED-START -->
+| Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
+|---|---|---|
+| **AI Gateway Security** | [LiteLLM: Deconstructing AI Gateway MCP RCE Chain](https://blogs.redwan.work/2026/10/litellm-deconstructing-ai-gateway-mcp.html) | [Hardening LiteLLM AI Gateway: Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-litellm-ai-gateway-blue-team.html) |
+| **Active Directory PKI** | [AD CS ESC8: NTLM Relay to Web Enrollment](https://blogs.redwan.work/2026/10/ad-cs-esc8-deconstructing-ntlm-relay-to.html) | [Hardening AD CS Web Enrollment: Defense Guide](https://blogs.redwan.work/2026/10/hardening-ad-cs-web-enrollment-blue.html) |
+| **Federated Identity** | [Golden SAML: ADFS Token Forgery Architecture](https://blogs.redwan.work/2026/10/golden-saml-deconstructing-adfs-token.html) | [Hardening AD FS: Blue Team Golden SAML Defense](https://blogs.redwan.work/2026/10/hardening-ad-fs-blue-team-golden-saml.html) |
+| **Kernel Exploitation** | [Linux Kernel Dirty Pipe: Page Cache Overwrite](https://blogs.redwan.work/2026/10/linux-kernel-dirty-pipe-deconstructing.html) | [Hardening Linux Against Dirty Pipe: Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-linux-against-dirty-pipe-blue.html) |
+| **Kernel eBPF** | [Linux Kernel eBPF: Verifier Logic Flaws](https://blogs.redwan.work/2026/09/linux-kernel-ebpf-deconstructing.html) | [Hardening Linux Kernel eBPF: Blue Team Guide](https://blogs.redwan.work/2026/09/hardening-linux-kernel-ebpf-blue-team.html) |
+| **Cloud IAM (GCP)** | [GCP IAM: Service Account Impersonation Deep-Dive](https://blogs.redwan.work/2026/09/gcp-iam-service-account-impersonation.html) | [Hardening GCP Service Accounts: Blue Team Guide](https://blogs.redwan.work/2026/09/hardening-gcp-service-accounts-blue.html) |
+| **Cloud IAM (Azure)** | [Azure Managed Identity: IMDS Cloud Escalation](https://blogs.redwan.work/2026/09/azure-managed-identity-exploiting-imds.html) | [Hardening Azure Managed Identity: Defense Guide](https://blogs.redwan.work/2026/09/hardening-azure-managed-identity-blue.html) |
+| **Active Directory** | [Active Directory DCSync: MS-DRSR Architecture](https://blogs.redwan.work/2026/09/active-directory-dcsync-deconstructing.html) | [Hardening Active Directory: DCSync Defense Guide](https://blogs.redwan.work/2026/09/hardening-active-directory-blue-team_0958470769.html) |
+<!-- RESEARCH-FEED-END -->
 
+> 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
 
-<!-- Education -->
-<h2 align="center">🎓 Education</h2>
+---
 
-<!-- Education Table -->
-<table align="center">
-  <tr>
-    <th align="center">TIMELINE</th>
-    <th align="center">DEGREE</th>
-    <th align="center">DEPARTMENT / GROUP</th>
-    <th align="center">INSTITUTION</th>
-    <th align="center">LOCATION</th>
-  </tr>
-  <tr>
-    <td align="center">2022 - 2024</td>
-    <td align="center">Masters of Science (M.Sc)</td>
-    <td align="center">Computer Science and Engineering</td>
-    <td align="center">Jagannath University, Dhaka</td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2017 - 2022</td>
-    <td align="center">Bachelor of Science (B.Sc)</td>
-    <td align="center">Computer Science and Engineering</td>
-    <td align="center">Jagannath University, Dhaka</td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2014 - 2016</td>
-    <td align="center">Higher Secondary School Certificate (HSC)</td>
-    <td align="center">Science</td>
-    <td align="center">Cambrian College</td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2008 - 2014</td>
-    <td align="center">Secondary School Certificate (SSC)</td>
-    <td align="center">Science</td>
-    <td align="center">Ideal Preparatory and High School</td>
-    <td align="center">Sherpur, Bangladesh</td>
-  </tr>
-</table>
+## 🛠️ Core Technical Competencies
 
+- **Offensive Security & Red Teaming**: Penetration Testing, Active Directory Exploitation (AD CS, Kerberos, RBCD, Shadow Credentials), Web & API Vulnerabilities, Reverse Engineering, Exploit Analysis.
+- **Defensive Engineering & Blue Teaming**: Detection Engineering, Sigma Rules, Falco/eBPF Tracing, Threat Hunting, Sysmon & Windows Event Forwarding (WEF), Incident Response.
+- **Cloud & Infrastructure Security**: Cloud IAM (AWS, Azure, GCP), Kubernetes & Container Security, Hardening (Linux, SSH, AD FS, NetScaler), DevSecOps CI/CD Pipelines.
+- **AI Systems & LLM Security**: AI Gateway Architecture, Model Context Protocol (MCP) Security, Model Runner Sandboxing (Ollama, Ray, LiteLLM).
 
-<!-- Certifications -->
-<h2 align="center">🏅 Certifications</h2>
+---
 
-| Certification | Issuer | Issued | Credential ID | Skills/Highlights |
-| ------------- | ------ | ------ | ------------- | ----------------- |
-| GitHub Foundations | GitHub | Oct 2024 (Expires Oct 2027) | M125089334 | Git, GitHub Copilot, Codespaces, Issue Management |
-| Certified AppSec Practitioner (CAP) | The SecOps Group | Mar 2023 | 7208209 | Web App Security, Penetration Testing, Application Security, Vulnerability Assessment |
-| Certified Network Security Practitioner (CNSP) | The SecOps Group | Jun 2024 | 8811570 | Network Security |
-| Database Essentials and Vulnerabilities | IBM | Mar 2025 | NOLXCRPW73WS | Database, Database Security |
-| Incident Response and Digital Forensics | IBM | Feb 2025 | K0OA0Q547SSA | Digital Forensics, Incident Response |
-| Introduction to Cybersecurity Careers | IBM | Feb 2025 | SM5VW6AN4SBC | Cybersecurity, Career |
-| Introduction to Cybersecurity Essentials | IBM | Feb 2025 | 2XWR7X4ZTRYY | Cybersecurity Foundation |
-| Secure Programming with C++ | EC-Council Learning | Jan 2025 | 381844 | C++, Secure Coding; Memory management, code injection prevention, multithreading security |
-| Secure Programming with Java | EC-Council Learning | Jan 2025 | 381849 | Secure Coding, Java; Secure application design, cryptography, error handling, race conditions, security testing |
-| Advanced Open Source Intelligence and Privacy | EC-Council Learning | Dec 2024 | 376657 | Information Gathering, Information Security, OSINT |
-| Practical DevSecOps with GitHub Actions | EC-Council Learning | Dec 2024 | 375773 | DevOps, DevSecOps, GitHub; Automating workflows & integrating security tools |
-| Secure Programming with C | EC-Council Learning | Dec 2024 | 381249 | Secure Coding, C; Buffer overflows, secure file I/O, pointer safety |
-| Hands-on Linux for DevOps & Cloud Engineers | EC-Council Learning | Nov 2024 | 373487 | CI/CD, Linux SysAdmin, AWS, Shell Scripting, Cloud Security, DevOps |
-| IEEE CS BDC Symposium 2024 | IEEE Computer Society Bangladesh Chapter | Nov 2024 | 156 | Machine Learning, Feature Extraction, Data Science |
-| Applied Live Forensics | EC-Council Learning | Oct 2024 | 363343 | Digital Forensics, Computer Forensics |
-| Prepare for the GitHub Foundations Certification | LinkedIn | Oct 2024 | - | GitHub Copilot, Codespaces, GitHub, Issue Management |
-| Reverse Engineering: Frida For Beginners | EC-Council Learning | Oct 2024 | 363912 | Reverse Engineering |
-| Cloud Computing | ICT Division | Sep 2024 | HAT/PTSL/CC/01 | MySQL, cPanel, Django, GitHub, AWS, Cloud Security, Web Hosting, YML, NoSQL, Cloud Computing, Docker, GCP |
-| OWASP Top 10 for Docker Containers and Kubernetes Security | EC-Council Learning | Sep 2024 | 362455 | Cloud Security, Docker Products |
-| Penetration Testing, Incident Response and Forensics | IBM | Jul 2024 | AQJJV7DYZPZR | Digital Forensics, Penetration Testing, Python, Incident Response, Vulnerability Assessment |
-| Mastercard - Cybersecurity Job Simulation | Forage | Jun 2024 | Eit9q7aXseEQaAYpw | Phishing Simulation |
-| Jr Penetration Tester | TryHackMe | Apr 2024 | THM-1F9FZJ3YIU | Cybersecurity, Penetration Testing, Ethical Hacking |
-| Cryptography: Learn Public Key Infrastructure from Scratch | EC-Council Learning | Dec 2023 | 277167 | Cybersecurity |
-| Kali for Penetration Testers | EC-Council Learning | Dec 2023 | 273426 | Cybersecurity, Penetration Testing, Ethical Hacking |
-| 21st Century Employability Skilling Program - Advanced | Wadhwani Foundation | Nov 2023 | 655e4528cbe74e70300d680a | Communication, Team Collaboration, Problem Solving |
-| Learning PC Maintenance and Performance | LinkedIn | Aug 2023 | - | PC Troubleshooting |
-| Network Security & Database Vulnerabilities | IBM | Aug 2023 | JZHNNV945BC6 | Networking, Database |
-| Cyber Security | Arena Web Security | Jul 2023 | A43W1911S016 | Web App Security, Penetration Testing, OSINT, Ethical Hacking, Vulnerability Assessment, SysAdmin, Info System Audit |
-| Cybersecurity Compliance Framework & System Administration | IBM | Jul 2023 | LMX6LNBPPBW5 | Compliance, System Administration |
-| Cybersecurity Roles, Processes & Operating System Security | IBM | Jun 2023 | XBL7ME5E9UTH | Cybersecurity, Linux, GDPR, Operating Systems |
-| SQL Injections Unlocked - SQLi Web Attacks | ComproAvi | Jun 2023 | 0c711741-6083-4cbd-badc-bb4332fbb244 | Cybersecurity, Vulnerability Assessment |
-| Short Course: CISSP (Updated) | IT Masters (Charles Sturt University) | Jun 2023 | 4672 | Risk Assessment, Cybersecurity |
-| Introduction to Cybersecurity Tools & Cyber Attacks | IBM | May 2023 | A66YNSZB3EWD | Risk Assessment, Vulnerability Management, Data Privacy, Cybersecurity, CTI, Network Security, Incident Response, GDPR, Risk Management |
-| Offensive Hacking Unfolded | ComproAvi | May 2023 | 0f554876-6924-49a3-bbb2-716dcb62e580 | Vulnerability Management, Penetration Testing, Network Security, Information Gathering, Vulnerability Assessment |
-| OSINT: "Unleashing the Power of Public Information" - 2023+ | Udemy | Apr 2023 | UC-59b47534-3366-4c64-87d8-c43a45b5904e | OSINT, Information Gathering |
-| Real Ethical Hacking in 30 Hours &#124; Certificated CSEH+ 2023 | Udemy | Apr 2023 | UC-ea3a276c-a07b-4c75-8c27-2e4a850f5e49 | Networking, Network Security, OSINT, Linux, Malware Analysis, Metasploit, Incident Response, Information Gathering, Vulnerability Assessment |
-| Deep Dive into Open Source Intelligence using a Windows Host | EC-Council Learning | Mar 2023 | 206924 | OSINT, Source Intelligence |
-| Recon for bug bounty, penetration testers &#124; ethical hackers | Udemy | Mar 2023 | UC-b3738704-cad7-43fd-b68c-6c77c495c225 | Network Security, OSINT, Reconnaissance, Ethical Hacking, Vulnerability Assessment |
-| Getting Started with Open Source Intelligence using a Windows Host | EC-Council Learning | Jan 2023 | 178855 | OSINT, Source Intelligence |
-| (ISC)² Candidate | ISC2 | May 2023 (Expired May 2024) | - | Risk Assessment, GDPR, Risk Management |
-| OFSA Certification | OPSWAT Academy | May 2023 (Expired May 2024) | AqaDNQz6Hg | Risk Assessment, Data Privacy, Incident Response |
+## 🏅 Key Certifications & Credentials
 
-<!-- Contact Information -->
-<h2 align="center">📞 Contact Information</h2>
+| Credential | Issuer | Focus Area |
+|---|---|---|
+| **Certified AppSec Practitioner (CAP)** | The SecOps Group | Web App Security & Penetration Testing |
+| **Certified Network Security Practitioner (CNSP)** | The SecOps Group | Network Defense & Security Architecture |
+| **GitHub Foundations** | GitHub | Enterprise Git, GitHub Actions & DevSecOps |
+| **Incident Response and Digital Forensics** | IBM | Forensics, Threat Hunting & Incident Triage |
+| **Practical DevSecOps with GitHub Actions** | EC-Council Learning | Automated Security Testing & CI/CD Pipelines |
+| **Hands-on Linux for DevOps & Cloud Engineers** | EC-Council Learning | Linux Hardening, AWS & Infrastructure Automation |
 
-- **Email:** [redwanse@outlook.com](mailto:redwanse@outlook.com)
-- **Phone:** +8801776387624
-- **LinkedIn:** [redwancse](https://www.linkedin.com/in/redwancse)
-- **Personal Website:** [redwan.work](https://redwan.work)
-- **Company:** [Fast Cyber Defense](https://fastcyberdefense.com)
+---
+
+## 🎓 Education
+
+- **Master of Science (M.Sc.) in Computer Science & Engineering**  
+  *Jagannath University, Dhaka* (2022 – 2024)
+- **Bachelor of Science (B.Sc.) in Computer Science & Engineering**  
+  *Jagannath University, Dhaka* (2017 – 2022)
+
+---
+
+## 📬 Contact & Links
+
+- **Research Publication**: [blogs.redwan.work](https://blogs.redwan.work/)
+- **Full-Stack Portfolio**: [redwan.work](https://redwan.work)
+- **Company**: [Fast Cyber Defense](https://fastcyberdefense.com)
+- **LinkedIn**: [linkedin.com/in/redwancse](https://www.linkedin.com/in/redwancse)
+- **Email**: `info@redwan.work`
