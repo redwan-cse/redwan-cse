@@ -62,6 +62,16 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Practical DevSecOps with GitHub Actions** | EC-Council Learning | Automated Security Testing & CI/CD Pipelines |
 | **Hands-on Linux for DevOps & Cloud Engineers** | EC-Council Learning | Linux Hardening, AWS & Infrastructure Automation |
 
+## 📚 Academic Research & Peer-Reviewed Publications
+
+- **[Data-Driven Strategies for Digital Native Market Segmentation Using Clustering](https://doi.org/10.1016/j.ijcce.2024.04.002)**  
+  *International Journal of Cognitive Computing in Engineering* (Elsevier)  
+  `Journal Paper` • `Q1 Quartile` • `Scopus Indexed (Open Access)` • **DOI:** [10.1016/j.ijcce.2024.04.002](https://doi.org/10.1016/j.ijcce.2024.04.002)
+
+- **[Phishing URL Detection Using Comprehensive Feature Extraction and Machine Learning Techniques](https://s24.ieeecsbdc.org/papers/156)**  
+  *IEEE Computer Society Bangladesh Chapter Symposium 2024 (IEEE CS BDC)*  
+  `Conference Paper` • `IEEE` • Presented at Jagannath University, Dhaka (Nov 2024)
+
 ---
 
 ## 🎓 Education
