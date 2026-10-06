@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Cloud & Infrastructure Security** | [Hardening AWS EKS Pod Identity: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) |
 | **AI Gateway Security** | [LiteLLM: Deconstructing AI Gateway MCP RCE Chain](https://blogs.redwan.work/2026/10/litellm-deconstructing-ai-gateway-mcp.html) | [Hardening LiteLLM AI Gateway: Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-litellm-ai-gateway-blue-team.html) |
 | **Active Directory PKI** | [AD CS ESC8: NTLM Relay to Web Enrollment](https://blogs.redwan.work/2026/10/ad-cs-esc8-deconstructing-ntlm-relay-to.html) | [Hardening AD CS Web Enrollment: Defense Guide](https://blogs.redwan.work/2026/10/hardening-ad-cs-web-enrollment-blue.html) |
 | **Federated Identity** | [Golden SAML: ADFS Token Forgery Architecture](https://blogs.redwan.work/2026/10/golden-saml-deconstructing-adfs-token.html) | [Hardening AD FS: Blue Team Golden SAML Defense](https://blogs.redwan.work/2026/10/hardening-ad-fs-blue-team-golden-saml.html) |
