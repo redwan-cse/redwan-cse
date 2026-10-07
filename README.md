@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DevSecOps** | [Hardening GitLab CI/CD: Blue Team Pipeline Defense Guide](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) |
 | **DevSecOps** | [GitLab: Deconstructing CI/CD Pipeline Impersonation](https://blogs.redwan.work/2026/10/gitlab-deconstructing-cicd-pipeline.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/gitlab-deconstructing-cicd-pipeline.html) |
 | **Cloud & Infrastructure Security** | [Hardening AWS EKS Pod Identity: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) |
 | **AI Gateway Security** | [LiteLLM: Deconstructing AI Gateway MCP RCE Chain](https://blogs.redwan.work/2026/10/litellm-deconstructing-ai-gateway-mcp.html) | [Hardening LiteLLM AI Gateway: Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-litellm-ai-gateway-blue-team.html) |
