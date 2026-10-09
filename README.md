@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Linux OverlayFS: Deconstructing CVE-2023-0386 SUID Privilege Escalation](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) |
 | **Offensive Security & Identity** | [Hardening Active Directory Kerberos: PAC Validation & Diamond Ticket Defense](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) |
 | **Offensive Security & Identity** | [Kerberos Diamond Ticket: Deconstructing TGT Forgery Architecture](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing.html) |
 | **DevSecOps** | [Hardening GitLab CI/CD: Blue Team Pipeline Defense Guide](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) |
