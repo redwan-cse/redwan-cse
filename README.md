@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Threat Research & OSINT** | [Check Point Quantum Gateway: CVE-2024-24919 Traversal](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) |
 | **Systems & Platform Engineering** | [Hardening Linux Against OverlayFS: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-linux-against-overlayfs-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-against-overlayfs-blue.html) |
 | **Systems & Platform Engineering** | [Linux OverlayFS: Deconstructing CVE-2023-0386 SUID Privilege Escalation](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) |
 | **Offensive Security & Identity** | [Hardening Active Directory Kerberos: PAC Validation & Diamond Ticket Defense](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Kernel eBPF** | [Linux Kernel eBPF: Verifier Logic Flaws](https://blogs.redwan.work/2026/09/linux-kernel-ebpf-deconstructing.html) | [Hardening Linux Kernel eBPF: Blue Team Guide](https://blogs.redwan.work/2026/09/hardening-linux-kernel-ebpf-blue-team.html) |
 | **Cloud IAM (GCP)** | [GCP IAM: Service Account Impersonation Deep-Dive](https://blogs.redwan.work/2026/09/gcp-iam-service-account-impersonation.html) | [Hardening GCP Service Accounts: Blue Team Guide](https://blogs.redwan.work/2026/09/hardening-gcp-service-accounts-blue.html) |
 | **Cloud IAM (Azure)** | [Azure Managed Identity: IMDS Cloud Escalation](https://blogs.redwan.work/2026/09/azure-managed-identity-exploiting-imds.html) | [Hardening Azure Managed Identity: Defense Guide](https://blogs.redwan.work/2026/09/hardening-azure-managed-identity-blue.html) |
-| **Active Directory** | [Active Directory DCSync: MS-DRSR Architecture](https://blogs.redwan.work/2026/09/active-directory-dcsync-deconstructing.html) | [Hardening Active Directory: DCSync Defense Guide](https://blogs.redwan.work/2026/09/hardening-active-directory-blue-team_0958470769.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
