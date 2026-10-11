@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [Hardening Entra ID: Blue Team Token Protection Guide](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) |
 | **DFIR & Architecture** | [Entra ID Primary Refresh Token: Deconstructing Pass-the-PRT](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) |
 | **Threat Research & OSINT** | [Hardening Check Point Gateways: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) |
 | **Threat Research & OSINT** | [Check Point Quantum Gateway: CVE-2024-24919 Traversal](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Active Directory PKI** | [AD CS ESC8: NTLM Relay to Web Enrollment](https://blogs.redwan.work/2026/10/ad-cs-esc8-deconstructing-ntlm-relay-to.html) | [Hardening AD CS Web Enrollment: Defense Guide](https://blogs.redwan.work/2026/10/hardening-ad-cs-web-enrollment-blue.html) |
 | **Federated Identity** | [Golden SAML: ADFS Token Forgery Architecture](https://blogs.redwan.work/2026/10/golden-saml-deconstructing-adfs-token.html) | [Hardening AD FS: Blue Team Golden SAML Defense](https://blogs.redwan.work/2026/10/hardening-ad-fs-blue-team-golden-saml.html) |
 | **Kernel Exploitation** | [Linux Kernel Dirty Pipe: Page Cache Overwrite](https://blogs.redwan.work/2026/10/linux-kernel-dirty-pipe-deconstructing.html) | [Hardening Linux Against Dirty Pipe: Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-linux-against-dirty-pipe-blue.html) |
-| **Kernel eBPF** | [Linux Kernel eBPF: Verifier Logic Flaws](https://blogs.redwan.work/2026/09/linux-kernel-ebpf-deconstructing.html) | [Hardening Linux Kernel eBPF: Blue Team Guide](https://blogs.redwan.work/2026/09/hardening-linux-kernel-ebpf-blue-team.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
