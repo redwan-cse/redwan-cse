@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [runc CVE-2024-21626: Deconstructing Leaky Vessels Container Escape](https://blogs.redwan.work/2026/10/runc-cve-2024-21626-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/runc-cve-2024-21626-deconstructing.html) |
 | **Offensive Security & Identity** | [Hardening Active Directory: Blue Team DPAPI Defense Guide](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team.html) |
 | **Offensive Security & Identity** | [Active Directory DPAPI: Deconstructing Domain Backup Key Theft](https://blogs.redwan.work/2026/10/active-directory-dpapi-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-dpapi-deconstructing.html) |
 | **DevSecOps** | [Hardening Sonatype Nexus 3: Blue Team Supply Chain Defense Guide](https://blogs.redwan.work/2026/10/hardening-sonatype-nexus-3-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-sonatype-nexus-3-blue-team.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Threat Research & OSINT** | [Check Point Quantum Gateway: CVE-2024-24919 Traversal](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) |
 | **Systems & Platform Engineering** | [Hardening Linux Against OverlayFS: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-linux-against-overlayfs-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-against-overlayfs-blue.html) |
 | **Systems & Platform Engineering** | [Linux OverlayFS: Deconstructing CVE-2023-0386 SUID Privilege Escalation](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) |
-| **Offensive Security & Identity** | [Hardening Active Directory Kerberos: PAC Validation & Diamond Ticket Defense](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
