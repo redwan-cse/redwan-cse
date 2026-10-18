@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [Windows ETW: Deconstructing EtwEventWrite Telemetry Blinding](https://blogs.redwan.work/2026/10/windows-etw-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-etw-deconstructing.html) |
 | **Threat Research & OSINT** | [Hardening Cisco IOS XE: Blue Team Web UI Zero-Day Defense Guide](https://blogs.redwan.work/2026/10/hardening-cisco-ios-xe-blue-team-web-ui.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-cisco-ios-xe-blue-team-web-ui.html) |
 | **Threat Research & OSINT** | [Cisco IOS XE: Deconstructing Web UI Zero-Day and Lua Implant Chains](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) |
 | **Systems & Platform Engineering** | [Hardening Container Runtimes: Blue Team Leaky Vessels Defense Guide](https://blogs.redwan.work/2026/10/hardening-container-runtimes-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-container-runtimes-blue-team.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **AI Security & AI Engineering** | [CrewAI CVE-2026-2275: Deconstructing Agent RCE Chains](https://blogs.redwan.work/2026/10/crewai-cve-2026-2275-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/crewai-cve-2026-2275-deconstructing.html) |
 | **DFIR & Architecture** | [Hardening Entra ID: Blue Team Token Protection Guide](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) |
 | **DFIR & Architecture** | [Entra ID Primary Refresh Token: Deconstructing Pass-the-PRT](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) |
-| **Threat Research & OSINT** | [Hardening Check Point Gateways: Blue Team Defense Guide](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
