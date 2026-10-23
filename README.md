@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [glibc: Deconstructing CVE-2023-4911 Looney Tunables LPE](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) |
 | **Offensive Security & Identity** | [Hardening Active Directory: Blue Team Unconstrained Delegation Guide](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01867136293.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01867136293.html) |
 | **Offensive Security & Identity** | [Active Directory: Deconstructing Unconstrained Delegation Takeover](https://blogs.redwan.work/2026/10/active-directory-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-deconstructing.html) |
 | **DevSecOps** | [Hardening Git SCM: Blue Team Submodule Hook RCE Defense Guide](https://blogs.redwan.work/2026/10/hardening-git-scm-blue-team-submodule.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-git-scm-blue-team-submodule.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Threat Research & OSINT** | [Cisco IOS XE: Deconstructing Web UI Zero-Day and Lua Implant Chains](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) |
 | **Systems & Platform Engineering** | [Hardening Container Runtimes: Blue Team Leaky Vessels Defense Guide](https://blogs.redwan.work/2026/10/hardening-container-runtimes-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-container-runtimes-blue-team.html) |
 | **Systems & Platform Engineering** | [runc CVE-2024-21626: Deconstructing Leaky Vessels Container Escape](https://blogs.redwan.work/2026/10/runc-cve-2024-21626-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/runc-cve-2024-21626-deconstructing.html) |
-| **Offensive Security & Identity** | [Hardening Active Directory: Blue Team DPAPI Defense Guide](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
