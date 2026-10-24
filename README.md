@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Threat Research & OSINT** | [Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
 | **Threat Research & OSINT** | [ScreenConnect: Threat Modeling CVE-2024-1709 Pre-Auth RCE](https://blogs.redwan.work/2026/10/screenconnect-threat-modeling-cve-2024.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/screenconnect-threat-modeling-cve-2024.html) |
 | **Systems & Platform Engineering** | [Hardening Linux Dynamic Linker: glibc CVE-2023-4911 Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) |
 | **Systems & Platform Engineering** | [glibc: Deconstructing CVE-2023-4911 Looney Tunables LPE](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DFIR & Architecture** | [Hardening Windows ETW: Blue Team Telemetry Blinding Defense Guide](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) |
 | **DFIR & Architecture** | [Windows ETW: Deconstructing EtwEventWrite Telemetry Blinding](https://blogs.redwan.work/2026/10/windows-etw-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-etw-deconstructing.html) |
 | **Threat Research & OSINT** | [Hardening Cisco IOS XE: Blue Team Web UI Zero-Day Defense Guide](https://blogs.redwan.work/2026/10/hardening-cisco-ios-xe-blue-team-web-ui.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-cisco-ios-xe-blue-team-web-ui.html) |
-| **Threat Research & OSINT** | [Cisco IOS XE: Deconstructing Web UI Zero-Day and Lua Implant Chains](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/cisco-ios-xe-deconstructing-web-ui-zero.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
