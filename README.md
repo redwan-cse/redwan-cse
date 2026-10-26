@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **AI Security & AI Engineering** | [AutoGen: Threat Modeling Multi-Agent Sandbox Escapes](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
 | **DFIR & Architecture** | [Hardening Windows LSASS: Blue Team PPL & Credential Guard Guide](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) |
 | **DFIR & Architecture** | [Windows LSASS: Deconstructing PPL Bypasses and Memory Dump Forensics](https://blogs.redwan.work/2026/10/windows-lsass-deconstructing-ppl.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-lsass-deconstructing-ppl.html) |
 | **Threat Research & OSINT** | [Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Cloud & Infrastructure Security** | [Kubernetes Ingress-NGINX: Deconstructing Annotation Injection RCE](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) |
 | **AI Security & AI Engineering** | [Hardening LangGraph Agents: Blue Team Memory Poisoning Defense Guide](https://blogs.redwan.work/2026/10/hardening-langgraph-agents-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-langgraph-agents-blue-team.html) |
 | **AI Security & AI Engineering** | [LangGraph: Deconstructing Agent Memory Poisoning RCE](https://blogs.redwan.work/2026/10/langgraph-deconstructing-agent-memory.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/langgraph-deconstructing-agent-memory.html) |
-| **DFIR & Architecture** | [Hardening Windows ETW: Blue Team Telemetry Blinding Defense Guide](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
