@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Cloud & Infrastructure Security** | [Hardening AWS EKS IRSA: Blue Team OIDC & Pod Identity Guide](https://blogs.redwan.work/2026/10/hardening-aws-eks-irsa-blue-team-oidc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-irsa-blue-team-oidc.html) |
 | **Cloud & Infrastructure Security** | [AWS EKS IRSA: Deconstructing OIDC Federation & IAM Escalation](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) |
 | **AI Security & AI Engineering** | [Hardening Microsoft AutoGen: Blue Team Multi-Agent Sandbox Guide](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) |
 | **AI Security & AI Engineering** | [AutoGen: Threat Modeling Multi-Agent Sandbox Escapes](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DevSecOps** | [Hardening Git SCM: Blue Team Submodule Hook RCE Defense Guide](https://blogs.redwan.work/2026/10/hardening-git-scm-blue-team-submodule.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-git-scm-blue-team-submodule.html) |
 | **DevSecOps** | [Git SCM: Deconstructing CVE-2024-32002 Submodule Hook RCE](https://blogs.redwan.work/2026/10/git-scm-deconstructing-cve-2024-32002.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/git-scm-deconstructing-cve-2024-32002.html) |
 | **Cloud & Infrastructure Security** | [Hardening Kubernetes Ingress: Blue Team Ingress-NGINX Defense Guide](https://blogs.redwan.work/2026/10/hardening-kubernetes-ingress-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-kubernetes-ingress-blue-team.html) |
-| **Cloud & Infrastructure Security** | [Kubernetes Ingress-NGINX: Deconstructing Annotation Injection RCE](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
