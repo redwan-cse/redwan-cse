@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Hardening Linux Kernel: Blue Team CVE-2024-36971 Defense Guide](https://blogs.redwan.work/2026/10/hardening-linux-kernel-blue-team-cve.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-kernel-blue-team-cve.html) |
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-36971: Route Cache UAF Exploitation](https://blogs.redwan.work/2026/10/linux-kernel-cve-2024-36971-route-cache.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-kernel-cve-2024-36971-route-cache.html) |
 | **Offensive Security & Identity** | [Hardening Active Directory: Blue Team Kerberos Diamond Ticket Defense](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01245094533.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01245094533.html) |
 | **Offensive Security & Identity** | [Kerberos Diamond Ticket: Deconstructing TGT PAC Forgery Architecture](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing_0514232920.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing_0514232920.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Threat Research & OSINT** | [Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
 | **Threat Research & OSINT** | [ScreenConnect: Threat Modeling CVE-2024-1709 Pre-Auth RCE](https://blogs.redwan.work/2026/10/screenconnect-threat-modeling-cve-2024.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/screenconnect-threat-modeling-cve-2024.html) |
 | **Systems & Platform Engineering** | [Hardening Linux Dynamic Linker: glibc CVE-2023-4911 Blue Team Guide](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) |
-| **Systems & Platform Engineering** | [glibc: Deconstructing CVE-2023-4911 Looney Tunables LPE](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
