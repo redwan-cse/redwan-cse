@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [Windows Token Impersonation: Deconstructing SeImpersonatePrivilege](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
 | **Threat Research & OSINT** | [Hardening F5 BIG-IP TMUI: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) |
 | **Threat Research & OSINT** | [F5 BIG-IP TMUI: Deconstructing AJP Smuggling RCE](https://blogs.redwan.work/2026/10/f5-big-ip-tmui-deconstructing-ajp.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/f5-big-ip-tmui-deconstructing-ajp.html) |
 | **Systems & Platform Engineering** | [Hardening Linux Kernel: Blue Team CVE-2024-36971 Defense Guide](https://blogs.redwan.work/2026/10/hardening-linux-kernel-blue-team-cve.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-kernel-blue-team-cve.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **AI Security & AI Engineering** | [AutoGen: Threat Modeling Multi-Agent Sandbox Escapes](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
 | **DFIR & Architecture** | [Hardening Windows LSASS: Blue Team PPL & Credential Guard Guide](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) |
 | **DFIR & Architecture** | [Windows LSASS: Deconstructing PPL Bypasses and Memory Dump Forensics](https://blogs.redwan.work/2026/10/windows-lsass-deconstructing-ppl.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-lsass-deconstructing-ppl.html) |
-| **Threat Research & OSINT** | [Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
