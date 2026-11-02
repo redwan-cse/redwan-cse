@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **AI Security** | [Flowise AI CVE-2024-58351: overrideConfig Agent RCE](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) |
 | **DFIR & Architecture** | [Windows Token Defense: SeImpersonate Hardening Guide](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) |
 | **DFIR & Architecture** | [Hardening Windows Services: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 | **DFIR & Architecture** | [Windows Token Impersonation: Deconstructing SeImpersonatePrivilege](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Cloud & Infrastructure Security** | [Hardening AWS EKS IRSA: Blue Team OIDC & Pod Identity Guide](https://blogs.redwan.work/2026/10/hardening-aws-eks-irsa-blue-team-oidc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-irsa-blue-team-oidc.html) |
 | **Cloud & Infrastructure Security** | [AWS EKS IRSA: Deconstructing OIDC Federation & IAM Escalation](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) |
 | **AI Security & AI Engineering** | [Hardening Microsoft AutoGen: Blue Team Multi-Agent Sandbox Guide](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) |
-| **AI Security & AI Engineering** | [AutoGen: Threat Modeling Multi-Agent Sandbox Escapes](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
