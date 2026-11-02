@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [Windows Token Defense: SeImpersonate Hardening Guide](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) |
 | **DFIR & Architecture** | [Hardening Windows Services: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 | **DFIR & Architecture** | [Windows Token Impersonation: Deconstructing SeImpersonatePrivilege](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
 | **Threat Research & OSINT** | [Hardening F5 BIG-IP TMUI: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Cloud & Infrastructure Security** | [AWS EKS IRSA: Deconstructing OIDC Federation & IAM Escalation](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) |
 | **AI Security & AI Engineering** | [Hardening Microsoft AutoGen: Blue Team Multi-Agent Sandbox Guide](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) |
 | **AI Security & AI Engineering** | [AutoGen: Threat Modeling Multi-Agent Sandbox Escapes](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
-| **DFIR & Architecture** | [Hardening Windows LSASS: Blue Team PPL & Credential Guard Guide](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
