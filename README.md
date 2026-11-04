@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DevSecOps** | [BuildKit CVE-2024-23651: Mount Cache Container Breakout](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) |
 | **AI Security** | [Flowise AI Defense: CVE-2024-58351 Hardening Guide](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) |
 | **Cloud & Infrastructure Security** | [AWS ECS Defense: Task Definition Hardening Guide](https://blogs.redwan.work/2026/11/aws-ecs-defense-task-definition.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-defense-task-definition.html) |
 | **Cloud & Infrastructure Security** | [AWS ECS Privilege Escalation: Task Definition Overrides](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Offensive Security & Identity** | [Hardening Active Directory: Blue Team Kerberos Diamond Ticket Defense](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01245094533.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01245094533.html) |
 | **Offensive Security & Identity** | [Kerberos Diamond Ticket: Deconstructing TGT PAC Forgery Architecture](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing_0514232920.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing_0514232920.html) |
 | **DevSecOps** | [Hardening GitLab CI/CD: Blue Team CVE-2024-6385 Pipeline Defense](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team-cve.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team-cve.html) |
-| **DevSecOps** | [GitLab: Threat Modeling CVE-2024-6385 CI/CD Pipeline Takeover](https://blogs.redwan.work/2026/10/gitlab-threat-modeling-cve-2024-6385.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/gitlab-threat-modeling-cve-2024-6385.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
