@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [Process Hollowing Forensics: PEB & VAD Memory Guide](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
 | **Threat Research & OSINT** | [PAN-OS CVE-2024-3400: GlobalProtect Command Injection](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) |
 | **Systems & Platform Engineering** | [Linux io_uring Defense: CVE-2024-0582 Hardening Guide](https://blogs.redwan.work/2026/11/linux-iouring-defense-cve-2024-0582.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-iouring-defense-cve-2024-0582.html) |
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-0582: io_uring UAF Exploitation](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-0582-iouring-uaf.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-0582-iouring-uaf.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DFIR & Architecture** | [Hardening Windows Services: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 | **DFIR & Architecture** | [Windows Token Impersonation: Deconstructing SeImpersonatePrivilege](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
 | **Threat Research & OSINT** | [Hardening F5 BIG-IP TMUI: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) |
-| **Threat Research & OSINT** | [F5 BIG-IP TMUI: Deconstructing AJP Smuggling RCE](https://blogs.redwan.work/2026/10/f5-big-ip-tmui-deconstructing-ajp.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/f5-big-ip-tmui-deconstructing-ajp.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
