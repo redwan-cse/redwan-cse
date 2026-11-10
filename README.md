@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **AI Security** | [LlamaIndex Defense: CVE-2024-3098 Hardening Guide](https://blogs.redwan.work/2026/11/llamaindex-defense-cve-2024-3098.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-defense-cve-2024-3098.html) |
 | **AI Security** | [LlamaIndex CVE-2024-3098: PandasQueryEngine RCE Guide](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) |
 | **DFIR & Architecture** | [Process Hollowing Defense: Memory Hardening Guide](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) |
 | **DFIR & Architecture** | [Process Hollowing Forensics: PEB & VAD Memory Guide](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Cloud & Infrastructure Security** | [AWS ECS Privilege Escalation: Task Definition Overrides](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) |
 | **AI Security** | [Flowise AI CVE-2024-58351: overrideConfig Agent RCE](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) |
 | **DFIR & Architecture** | [Windows Token Defense: SeImpersonate Hardening Guide](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) |
-| **DFIR & Architecture** | [Hardening Windows Services: Blue Team Defense Guide](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
