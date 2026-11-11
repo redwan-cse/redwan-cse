@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DevSecOps** | [Docker Defense: CVE-2024-41110 AuthZ Hardening Guide](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) |
 | **DevSecOps** | [Docker Engine CVE-2024-41110: AuthZ Plugin Bypass](https://blogs.redwan.work/2026/11/docker-engine-cve-2024-41110-authz.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-engine-cve-2024-41110-authz.html) |
 | **AI Security** | [LlamaIndex Defense: CVE-2024-3098 Hardening Guide](https://blogs.redwan.work/2026/11/llamaindex-defense-cve-2024-3098.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-defense-cve-2024-3098.html) |
 | **AI Security** | [LlamaIndex CVE-2024-3098: PandasQueryEngine RCE Guide](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **AI Security** | [Flowise AI Defense: CVE-2024-58351 Hardening Guide](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) |
 | **Cloud & Infrastructure Security** | [AWS ECS Defense: Task Definition Hardening Guide](https://blogs.redwan.work/2026/11/aws-ecs-defense-task-definition.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-defense-task-definition.html) |
 | **Cloud & Infrastructure Security** | [AWS ECS Privilege Escalation: Task Definition Overrides](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-privilege-escalation-task.html) |
-| **AI Security** | [Flowise AI CVE-2024-58351: overrideConfig Agent RCE](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
