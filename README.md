@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Linux KSMBD Defense: CVE-2022-47939 Hardening Guide](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) |
 | **Offensive Security & Identity** | [AD CS Defense: ESC13 OID Group Link Hardening Guide](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) |
 | **Offensive Security & Identity** | [AD CS ESC13: OID Group Link Privilege Escalation](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) |
 | **DevSecOps** | [Docker Defense: CVE-2024-41110 AuthZ Hardening Guide](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Offensive Security & Identity** | [Windows Token Impersonation: SeImpersonate Guide](https://blogs.redwan.work/2026/11/windows-token-impersonation_01887566752.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation_01887566752.html) |
 | **DevSecOps** | [BuildKit Defense: CVE-2024-23651 Hardening Guide](https://blogs.redwan.work/2026/11/buildkit-defense-cve-2024-23651.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-defense-cve-2024-23651.html) |
 | **DevSecOps** | [BuildKit CVE-2024-23651: Mount Cache Container Breakout](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) |
-| **AI Security** | [Flowise AI Defense: CVE-2024-58351 Hardening Guide](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
