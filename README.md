@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Threat Research & OSINT** | [FortiManager CVE-2024-47575: FortiJump RCE Analysis](https://blogs.redwan.work/2026/11/fortimanager-cve-2024-47575-fortijump.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-cve-2024-47575-fortijump.html) |
 | **Systems & Platform Engineering** | [Linux KSMBD Defense: CVE-2022-47939 Hardening Guide](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) |
 | **Offensive Security & Identity** | [AD CS Defense: ESC13 OID Group Link Hardening Guide](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) |
 | **Offensive Security & Identity** | [AD CS ESC13: OID Group Link Privilege Escalation](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-0582: io_uring UAF Exploitation](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-0582-iouring-uaf.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-0582-iouring-uaf.html) |
 | **Offensive Security & Identity** | [Windows Token Impersonation: SeImpersonate Guide](https://blogs.redwan.work/2026/11/windows-token-impersonation_01887566752.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation_01887566752.html) |
 | **DevSecOps** | [BuildKit Defense: CVE-2024-23651 Hardening Guide](https://blogs.redwan.work/2026/11/buildkit-defense-cve-2024-23651.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-defense-cve-2024-23651.html) |
-| **DevSecOps** | [BuildKit CVE-2024-23651: Mount Cache Container Breakout](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
