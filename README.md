@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **AI Security** | [vLLM CVE-2024-11041: MessageQueue Pickle RCE Guide](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) |
 | **DFIR & Architecture** | [BYOVD Defense: Kernel Callback & Driver Hardening](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) |
 | **DFIR & Architecture** | [Windows BYOVD: Kernel Callback Blinding Forensics](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) |
 | **Threat Research & OSINT** | [FortiManager Defense: CVE-2024-47575 Hardening Guide](https://blogs.redwan.work/2026/11/fortimanager-defense-cve-2024-47575.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-defense-cve-2024-47575.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DFIR & Architecture** | [Process Hollowing Defense: Memory Hardening Guide](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) |
 | **DFIR & Architecture** | [Process Hollowing Forensics: PEB & VAD Memory Guide](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
 | **Threat Research & OSINT** | [PAN-OS CVE-2024-3400: GlobalProtect Command Injection](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) |
-| **Systems & Platform Engineering** | [Linux io_uring Defense: CVE-2024-0582 Hardening Guide](https://blogs.redwan.work/2026/11/linux-iouring-defense-cve-2024-0582.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-iouring-defense-cve-2024-0582.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
