@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Linux Kernel KSMBD: CVE-2022-47939 Kernel RCE Guide](https://blogs.redwan.work/2026/11/linux-kernel-ksmbd-cve-2022-47939.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-ksmbd-cve-2022-47939.html) |
 | **AI Security** | [vLLM CVE-2024-11041: MessageQueue Pickle RCE Guide](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) |
 | **DFIR & Architecture** | [BYOVD Defense: Kernel Callback & Driver Hardening](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) |
 | **DFIR & Architecture** | [Windows BYOVD: Kernel Callback Blinding Forensics](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **AI Security** | [LlamaIndex CVE-2024-3098: PandasQueryEngine RCE Guide](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) |
 | **DFIR & Architecture** | [Process Hollowing Defense: Memory Hardening Guide](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) |
 | **DFIR & Architecture** | [Process Hollowing Forensics: PEB & VAD Memory Guide](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
-| **Threat Research & OSINT** | [PAN-OS CVE-2024-3400: GlobalProtect Command Injection](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
