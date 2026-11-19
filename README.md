@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Offensive Security & Identity** | [LDAPNightmare CVE-2024-49113: DC Zero-Click Exploit](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) |
 | **DevSecOps** | [GitHub Actions Defense: CVE-2025-30066 Hardening](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) |
 | **DevSecOps** | [GitHub Actions CVE-2025-30066: Tag Hijack RCE](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) |
 | **Cloud & Infrastructure Security** | [HashiCorp Vault Defense: CVE-2025-6000 Hardening](https://blogs.redwan.work/2026/11/hashicorp-vault-defense-cve-2025-6000.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-defense-cve-2025-6000.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Offensive Security & Identity** | [AD CS Defense: ESC13 OID Group Link Hardening Guide](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-defense-esc13-oid-group-link.html) |
 | **Offensive Security & Identity** | [AD CS ESC13: OID Group Link Privilege Escalation](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) |
 | **DevSecOps** | [Docker Defense: CVE-2024-41110 AuthZ Hardening Guide](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) |
-| **DevSecOps** | [Docker Engine CVE-2024-41110: AuthZ Plugin Bypass](https://blogs.redwan.work/2026/11/docker-engine-cve-2024-41110-authz.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-engine-cve-2024-41110-authz.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
