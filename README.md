@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Linux nf_tables Defense: CVE-2024-1086 Hardening](https://blogs.redwan.work/2026/11/linux-nftables-defense-cve-2024-1086.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-nftables-defense-cve-2024-1086.html) |
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-1086: nf_tables Double-Free](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) |
 | **Offensive Security & Identity** | [LDAPNightmare Defense: CVE-2024-49113 Hardening](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) |
 | **Cloud & Infrastructure Security** | [HashiCorp Vault CVE-2025-6000: Audit Plugin RCE](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DFIR & Architecture** | [Windows BYOVD: Kernel Callback Blinding Forensics](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) |
 | **Threat Research & OSINT** | [FortiManager Defense: CVE-2024-47575 Hardening Guide](https://blogs.redwan.work/2026/11/fortimanager-defense-cve-2024-47575.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-defense-cve-2024-47575.html) |
 | **Threat Research & OSINT** | [FortiManager CVE-2024-47575: FortiJump RCE Analysis](https://blogs.redwan.work/2026/11/fortimanager-cve-2024-47575-fortijump.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-cve-2024-47575-fortijump.html) |
-| **Systems & Platform Engineering** | [Linux KSMBD Defense: CVE-2022-47939 Hardening Guide](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-ksmbd-defense-cve-2022-47939.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
