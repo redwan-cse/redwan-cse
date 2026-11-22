@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DFIR & Architecture** | [vCenter CVE-2026-123890 Defense: vmdir & STS Hardening](https://blogs.redwan.work/2026/11/vcenter-cve-2026-123890-defense-vmdir.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vcenter-cve-2026-123890-defense-vmdir.html) |
 | **DFIR & Architecture** | [VMware vCenter CVE-2026-123890: vmdir SRP-6a Bypass](https://blogs.redwan.work/2026/11/vmware-vcenter-cve-2026-123890-vmdir.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vmware-vcenter-cve-2026-123890-vmdir.html) |
 | **Threat Research & OSINT** | [Ivanti CVE-2025-0282 Defense: RESURGE & ICT Hardening](https://blogs.redwan.work/2026/11/ivanti-cve-2025-0282-defense-resurge.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ivanti-cve-2025-0282-defense-resurge.html) |
 | **Threat Research & OSINT** | [Ivanti Connect Secure CVE-2025-0282: IF-T/TLS RCE](https://blogs.redwan.work/2026/11/ivanti-connect-secure-cve-2025-0282-if.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ivanti-connect-secure-cve-2025-0282-if.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **AI Security** | [vLLM Defense: CVE-2024-11041 Pickle Hardening Guide](https://blogs.redwan.work/2026/11/vllm-defense-cve-2024-11041-pickle.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-defense-cve-2024-11041-pickle.html) |
 | **Systems & Platform Engineering** | [Linux Kernel KSMBD: CVE-2022-47939 Kernel RCE Guide](https://blogs.redwan.work/2026/11/linux-kernel-ksmbd-cve-2022-47939.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-ksmbd-cve-2022-47939.html) |
 | **AI Security** | [vLLM CVE-2024-11041: MessageQueue Pickle RCE Guide](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) |
-| **DFIR & Architecture** | [BYOVD Defense: Kernel Callback & Driver Hardening](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
