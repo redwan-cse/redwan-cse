@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **DevSecOps** | [Java4Shell CVE-2026-114938: Jenkins & OpenJDK RCE](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) |
 | **AI Security** | [Langflow CVE-2026-93680 Defense: MCP & Sandbox Guide](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) |
 | **Cloud & Infra Security** | [NGINX2Root CVE-2026-123007 Defense: HTTP/2 & K8s](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) |
 | **Cloud & Infra Security** | [NGINX2Root CVE-2026-123007: HTTP/2 Integer Underflow](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-http2.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-http2.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Cloud & Infrastructure Security** | [HashiCorp Vault CVE-2025-6000: Audit Plugin RCE](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) |
 | **Offensive Security & Identity** | [LDAPNightmare CVE-2024-49113: DC Zero-Click Exploit](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) |
 | **DevSecOps** | [GitHub Actions Defense: CVE-2025-30066 Hardening](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) |
-| **DevSecOps** | [GitHub Actions CVE-2025-30066: Tag Hijack RCE](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
