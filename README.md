@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Cloud & Infra Security** | [NGINX2Root CVE-2026-123007 Defense: HTTP/2 & K8s](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) |
 | **Cloud & Infra Security** | [NGINX2Root CVE-2026-123007: HTTP/2 Integer Underflow](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-http2.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-http2.html) |
 | **AI Security** | [Langflow CVE-2026-93680: MCP Auth Bypass & RCE](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-mcp-auth-bypass.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-mcp-auth-bypass.html) |
 | **DFIR & Architecture** | [vCenter CVE-2026-123890 Defense: vmdir & STS Hardening](https://blogs.redwan.work/2026/11/vcenter-cve-2026-123890-defense-vmdir.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vcenter-cve-2026-123890-defense-vmdir.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **DevSecOps** | [GitHub Actions Defense: CVE-2025-30066 Hardening](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) |
 | **DevSecOps** | [GitHub Actions CVE-2025-30066: Tag Hijack RCE](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) |
 | **Cloud & Infrastructure Security** | [HashiCorp Vault Defense: CVE-2025-6000 Hardening](https://blogs.redwan.work/2026/11/hashicorp-vault-defense-cve-2025-6000.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-defense-cve-2025-6000.html) |
-| **AI Security** | [vLLM Defense: CVE-2024-11041 Pickle Hardening Guide](https://blogs.redwan.work/2026/11/vllm-defense-cve-2024-11041-pickle.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-defense-cve-2024-11041-pickle.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
