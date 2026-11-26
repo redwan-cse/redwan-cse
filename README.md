@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Offensive Security & Identity** | [SonicWall CVE-2026-19868: SAML & MFA Auth Bypass](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) |
 | **DevSecOps** | [Java4Shell CVE-2026-114938 Defense: JVM & CI/CD](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) |
 | **DevSecOps** | [Java4Shell CVE-2026-114938: Jenkins & OpenJDK RCE](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) |
 | **AI Security** | [Langflow CVE-2026-93680 Defense: MCP & Sandbox Guide](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-1086: nf_tables Double-Free](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) |
 | **Offensive Security & Identity** | [LDAPNightmare Defense: CVE-2024-49113 Hardening](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) |
 | **Cloud & Infrastructure Security** | [HashiCorp Vault CVE-2025-6000: Audit Plugin RCE](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) |
-| **Offensive Security & Identity** | [LDAPNightmare CVE-2024-49113: DC Zero-Click Exploit](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
