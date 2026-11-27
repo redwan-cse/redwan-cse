@@ -28,6 +28,7 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 <!-- RESEARCH-FEED-START -->
 | Topic / Primitive | Attack Mechanics & Threat Model | Blue Team Hardening & Detection |
 |---|---|---|
+| **Systems & Platform Engineering** | [Linux KVM CVE-2026-99312: AMD Nested SVM Escape](https://blogs.redwan.work/2026/11/linux-kvm-cve-2026-99312-amd-nested-svm.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kvm-cve-2026-99312-amd-nested-svm.html) |
 | **Offensive Security & Identity** | [SonicWall CVE-2026-19868 Defense: SAML & IdP Hunt](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-defense-saml.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-defense-saml.html) |
 | **Offensive Security & Identity** | [SonicWall CVE-2026-19868: SAML & MFA Auth Bypass](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) |
 | **DevSecOps** | [Java4Shell CVE-2026-114938 Defense: JVM & CI/CD](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) |
@@ -42,7 +43,6 @@ I author comprehensive deep-dives with architecture diagrams and detection rules
 | **Threat Research & OSINT** | [Ivanti Connect Secure CVE-2025-0282: IF-T/TLS RCE](https://blogs.redwan.work/2026/11/ivanti-connect-secure-cve-2025-0282-if.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ivanti-connect-secure-cve-2025-0282-if.html) |
 | **Systems & Platform Engineering** | [Linux nf_tables Defense: CVE-2024-1086 Hardening](https://blogs.redwan.work/2026/11/linux-nftables-defense-cve-2024-1086.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-nftables-defense-cve-2024-1086.html) |
 | **Systems & Platform Engineering** | [Linux Kernel CVE-2024-1086: nf_tables Double-Free](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) |
-| **Offensive Security & Identity** | [LDAPNightmare Defense: CVE-2024-49113 Hardening](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) |
 <!-- RESEARCH-FEED-END -->
 
 > 📖 **Browse all 38+ in-depth research articles**: [blogs.redwan.work](https://blogs.redwan.work/)
